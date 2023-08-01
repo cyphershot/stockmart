@@ -1,1 +1,142 @@
-{"type":"header","name":"t:sections.header.settings.header-group.label","sections":{"announcement-bar":{"type":"announcement-bar","disabled":true,"settings":{"height":40,"height_mobile":40,"color_scheme":"1","text":"<p>Celebrate the season with a remarkable 30% discount on our captivating jewellery collection!<\/p>"}},"header":{"type":"header","blocks":{"dropdown":{"type":"dropdown","disabled":true,"settings":{"shop_button_label":"Shop Now","shop_button_menu":"main-menu","button_style":"tertiary","show_promo_1":false,"color_scheme_1":"dark","heading_1":"","description_1":"","overlay_opacity_1":0,"show_button_1":false,"button_link_1":"shopify:\/\/collections\/all","button_label_1":"Button label","button_style_1":"primary","text_1":"","text_accent_1":"","show_promo_2":false,"color_scheme_2":"dark","heading_2":"","description_2":"","overlay_opacity_2":0,"show_button_2":false,"button_link_2":"shopify:\/\/collections","button_label_2":"Button label","button_style_2":"primary","text_2":"","text_accent_2":""}},"fe59c0b0-79b7-4204-83c3-364360162097":{"type":"mega_menu","disabled":true,"settings":{"mega_menu_trigger":"","heading":"Heading for links","show_mega_menu_1":false,"color_scheme_1":"dark","heading_1":"","description_1":"","overlay_opacity_1":0,"enable_mobile_overlay_1":false,"show_button_1":false,"button_link_1":"","button_label_1":"Button label","button_style_1":"primary","text_1":"","text_accent_1":"","show_mega_menu_2":false,"color_scheme_2":"dark","heading_2":"","description_2":"","overlay_opacity_2":0,"enable_mobile_overlay_2":false,"show_button_2":false,"button_link_2":"","button_label_2":"Button label","button_style_2":"primary","text_2":"","text_accent_2":""}}},"block_order":["dropdown","fe59c0b0-79b7-4204-83c3-364360162097"],"custom_css":[".header__submenu .header__menu-item span {font-weight: 300; font-family: \"Poppins\";}","a {font-size: 14px;}"],"settings":{"header_type":"bottom-menu","color_scheme":"background-1","logo":"shopify:\/\/shop_images\/ringmerry-logo-04.png","logo_width":165,"menu":"main-menu","small_menu":"","enable_country_selector":true,"enable_language_selector":true,"sticky_header_type":"on-scroll-up","enable_contact_block":false,"contact_text":"Description","contact_text_accent":"<p>Contact info<\/p>","enable_search":true,"enable_search_modal":true,"show_collection_card":true,"collection_list":[],"show_items":false,"product_list":[],"show_vendor":false,"show_price":false,"items_link":"","show_articles":false,"blog":"","show_image":false,"show_date":false,"blog_link":"","show_search_block":false,"search_color_scheme":"dark","search_heading":"Heading","search_text":"Text","search_text_accent":"Accent text","button_link":"","button_label":"Button label","button_style":"primary"}},"dd5c47f5-8d20-4dd1-9394-3c664d26756d":{"type":"custom-liquid","settings":{"custom_liquid":""}}},"order":["announcement-bar","header","dd5c47f5-8d20-4dd1-9394-3c664d26756d"]}
+{
+  "type": "header",
+  "name": "t:sections.header.settings.header-group.label",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "disabled": true,
+      "settings": {
+        "height": 40,
+        "height_mobile": 40,
+        "color_scheme": "1",
+        "text": "<p>Celebrate the season with a remarkable 30% discount on our captivating jewellery collection!<\/p>"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "dropdown": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "shop_button_label": "Shop Now",
+            "shop_button_menu": "main-menu",
+            "button_style": "tertiary",
+            "show_promo_1": false,
+            "color_scheme_1": "dark",
+            "heading_1": "",
+            "description_1": "",
+            "overlay_opacity_1": 0,
+            "show_button_1": false,
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "Button label",
+            "button_style_1": "primary",
+            "text_1": "",
+            "text_accent_1": "",
+            "show_promo_2": false,
+            "color_scheme_2": "dark",
+            "heading_2": "",
+            "description_2": "",
+            "overlay_opacity_2": 0,
+            "show_button_2": false,
+            "button_link_2": "shopify:\/\/collections",
+            "button_label_2": "Button label",
+            "button_style_2": "primary",
+            "text_2": "",
+            "text_accent_2": ""
+          }
+        },
+        "fe59c0b0-79b7-4204-83c3-364360162097": {
+          "type": "mega_menu",
+          "disabled": true,
+          "settings": {
+            "mega_menu_trigger": "",
+            "heading": "Heading for links",
+            "show_mega_menu_1": false,
+            "color_scheme_1": "dark",
+            "heading_1": "",
+            "description_1": "",
+            "overlay_opacity_1": 0,
+            "enable_mobile_overlay_1": false,
+            "show_button_1": false,
+            "button_link_1": "",
+            "button_label_1": "Button label",
+            "button_style_1": "primary",
+            "text_1": "",
+            "text_accent_1": "",
+            "show_mega_menu_2": false,
+            "color_scheme_2": "dark",
+            "heading_2": "",
+            "description_2": "",
+            "overlay_opacity_2": 0,
+            "enable_mobile_overlay_2": false,
+            "show_button_2": false,
+            "button_link_2": "",
+            "button_label_2": "Button label",
+            "button_style_2": "primary",
+            "text_2": "",
+            "text_accent_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown",
+        "fe59c0b0-79b7-4204-83c3-364360162097"
+      ],
+      "custom_css": [
+        ".header__submenu .header__menu-item span {font-weight: 300; font-family: \"Poppins\";}",
+        "a {font-size: 14px;}"
+      ],
+      "settings": {
+        "header_type": "bottom-menu",
+        "color_scheme": "background-1",
+        "logo_width": 165,
+        "menu": "main-menu",
+        "small_menu": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "sticky_header_type": "on-scroll-up",
+        "enable_contact_block": false,
+        "contact_text": "Description",
+        "contact_text_accent": "<p>Contact info<\/p>",
+        "enable_search": true,
+        "enable_search_modal": true,
+        "show_collection_card": true,
+        "collection_list": [
+
+        ],
+        "show_items": false,
+        "product_list": [
+
+        ],
+        "show_vendor": false,
+        "show_price": false,
+        "items_link": "",
+        "show_articles": false,
+        "blog": "",
+        "show_image": false,
+        "show_date": false,
+        "blog_link": "",
+        "show_search_block": false,
+        "search_color_scheme": "dark",
+        "search_heading": "Heading",
+        "search_text": "Text",
+        "search_text_accent": "Accent text",
+        "button_link": "",
+        "button_label": "Button label",
+        "button_style": "primary"
+      }
+    },
+    "dd5c47f5-8d20-4dd1-9394-3c664d26756d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "dd5c47f5-8d20-4dd1-9394-3c664d26756d"
+  ]
+}

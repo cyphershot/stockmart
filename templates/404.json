@@ -1,1 +1,67 @@
-{"sections":{"main":{"type":"main-404","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "32e4a0f7-7d12-40ab-bb19-e691cebbdd83": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20345149849911__32e4a0f7-7d12-40ab-bb19-e691cebbdd83-slide-1": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "image": "shopify:\/\/shop_images\/anchor-bracelet-gold.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "template--20345149849911__32e4a0f7-7d12-40ab-bb19-e691cebbdd83-slide-2": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        }
+      },
+      "block_order": [
+        "template--20345149849911__32e4a0f7-7d12-40ab-bb19-e691cebbdd83-slide-1",
+        "template--20345149849911__32e4a0f7-7d12-40ab-bb19-e691cebbdd83-slide-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false,
+        "height": "16\/9",
+        "enable_autoplay": false,
+        "slide_duration": 5,
+        "controls_color_scheme": "light",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "main": {
+      "type": "main-404",
+      "settings": {
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "32e4a0f7-7d12-40ab-bb19-e691cebbdd83",
+    "main"
+  ]
+}
