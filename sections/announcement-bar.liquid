@@ -1,0 +1,91 @@
+<style>
+	:root {
+		--announcement-height: {{ section.settings.height_mobile }}px;
+	}
+
+	@media screen and (min-width: 765px) {
+		:root {
+		--announcement-height: {{ section.settings.height }}px;
+	}
+	}
+</style>
+
+<div class="announcement-bar announcement-bar-{% if section.settings.color_scheme == '1' %}1{% endif %}{% if section.settings.color_scheme == '2' %}2{% endif %}" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
+	{%- if section.settings.text != blank -%}
+		<div class="announcement-bar__message">
+			{%- if section.settings.image != blank -%}
+				<figure class="announcement-bar__image">
+					{{ section.settings.image | image_url: width: section.settings.image.width | image_tag:
+						loading: 'lazy',
+						class: "motion-reduce media--first",
+						widths: '25, 50, 75'
+					}}
+				</figure>
+			{%- endif -%}
+			<div class="announcement-bar__text">{{ section.settings.text }}</div>
+		</div>
+		{%- if section.settings.link != blank -%}
+			</a>
+		{%- endif -%}
+	{%- endif -%}
+</div>
+
+{% schema %}
+{
+	"name": "t:sections.announcement-bar.name",
+	"class": "section-announcement",
+	"settings": [
+		{
+			"type": "range",
+			"id": "height",
+			"min": 40,
+			"max": 100,
+			"step": 5,
+			"default": 40,
+			"label": "t:sections.announcement-bar.settings.height.label"
+		},
+		{
+			"type": "range",
+			"id": "height_mobile",
+			"min": 40,
+			"max": 100,
+			"step": 5,
+			"default": 40,
+			"label": "t:sections.announcement-bar.settings.height_mobile.label"
+		},
+		{
+			"type": "select",
+			"id": "color_scheme",
+			"default": "1",
+			"label": "t:sections.announcement-bar.settings.color_scheme.label",
+			"options": [
+				{
+					"value": "1",
+					"label": "t:sections.announcement-bar.settings.options__1.label"
+				},
+				{
+					"value": "2",
+					"label": "t:sections.announcement-bar.settings.options__2.label"
+				}
+			]
+		},
+		{
+			"type": "richtext",
+			"id": "text",
+			"default": "<p>For example, a test of the announcement of some news</p>",
+			"label": "t:sections.announcement-bar.settings.text.label"
+		},
+		{
+			"type": "image_picker",
+			"id": "image",
+			"label": "t:sections.announcement-bar.settings.image.label",
+			"info": "t:sections.announcement-bar.settings.image.info"
+		}
+	],
+	"default": {
+		"settings": {
+			"text": "<p>For example, a test of the announcement of some news</p>"
+		}
+	}
+}
+{% endschema %}
