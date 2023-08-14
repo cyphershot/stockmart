@@ -15,7 +15,6 @@
             "button_style": "primary",
             "button_label": "Explore Our Store",
             "button_link": "",
-            "image": "shopify:\/\/shop_images\/anchor-bracelet-gold.jpg",
             "overlay_opacity": 0
           }
         },
@@ -58,10 +57,39 @@
         "padding_top": "no-indent",
         "padding_bottom": "m"
       }
+    },
+    "4fb56167-5f28-4749-9987-bb1616b7fcff": {
+      "type": "featured-blog",
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_card": "background-2",
+        "subheading": "",
+        "heading": "Latest Articles",
+        "heading_size": "h3",
+        "post_layout": "grid",
+        "image_width": "small",
+        "image_fit": "contain",
+        "icon_background": "background-2",
+        "blog": "news",
+        "post_limit": 3,
+        "post_limit_mobile": 3,
+        "show_image": true,
+        "show_tags": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": false,
+        "show_view_all": false,
+        "show_view_all_mobile": true,
+        "button_label": "Button label",
+        "button_style": "secondary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
     }
   },
   "order": [
     "32e4a0f7-7d12-40ab-bb19-e691cebbdd83",
-    "main"
+    "main",
+    "4fb56167-5f28-4749-9987-bb1616b7fcff"
   ]
 }
