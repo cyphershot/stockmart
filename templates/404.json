@@ -108,12 +108,73 @@
         "padding_top": "m",
         "padding_bottom": "m"
       }
+    },
+    "4ea1f864-f657-497d-b3a0-fa9d96af9545": {
+      "type": "product-slider",
+      "blocks": {
+        "template--20536312430913__4ea1f864-f657-497d-b3a0-fa9d96af9545-product_slide-1": {
+          "type": "product_slide",
+          "settings": {
+            "product": "",
+            "subheading": "Some subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40B66F",
+            "heading": "Some heading",
+            "text": "Some text."
+          }
+        },
+        "template--20536312430913__4ea1f864-f657-497d-b3a0-fa9d96af9545-product_slide-2": {
+          "type": "product_slide",
+          "settings": {
+            "product": "",
+            "subheading": "Some subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40B66F",
+            "heading": "Some heading",
+            "text": "Some text."
+          }
+        },
+        "template--20536312430913__4ea1f864-f657-497d-b3a0-fa9d96af9545-product_slide-3": {
+          "type": "product_slide",
+          "settings": {
+            "product": "",
+            "subheading": "Some subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40B66F",
+            "heading": "Some heading",
+            "text": "Some text."
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312430913__4ea1f864-f657-497d-b3a0-fa9d96af9545-product_slide-1",
+        "template--20536312430913__4ea1f864-f657-497d-b3a0-fa9d96af9545-product_slide-2",
+        "template--20536312430913__4ea1f864-f657-497d-b3a0-fa9d96af9545-product_slide-3"
+      ],
+      "settings": {
+        "color_scheme": "2",
+        "desktop_alignment": "left",
+        "mobile_alignment": "before",
+        "image_fit": "cover",
+        "slide_duration": 5,
+        "show_vendor": true,
+        "image_ratio": "landscape",
+        "image_fit_card": "cover",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
     }
   },
   "order": [
     "32e4a0f7-7d12-40ab-bb19-e691cebbdd83",
     "aafc6d62-9f6c-4aa2-bce9-d8144d51e00a",
     "main",
-    "4fb56167-5f28-4749-9987-bb1616b7fcff"
+    "4fb56167-5f28-4749-9987-bb1616b7fcff",
+    "4ea1f864-f657-497d-b3a0-fa9d96af9545"
   ]
 }
