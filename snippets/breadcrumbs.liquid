@@ -12,7 +12,7 @@
   template_base == 'product' 
 %}
   <div class="container">
-    <nav class="breadcrumb breadcrumb--padding" role="navigation" aria-label="breadcrumbs">
+    <nav class="breadcrumb breadcrumb--padding" role="navigation" aria-label="breadcrumbs" style="display:none;">
       <a href="{{ routes.root_url }}" title="{{ 'general.breadcrumbs.home' | t }}">{{ 'general.breadcrumbs.home' | t}}</a>
       {% if template contains 'page' %}
         <div class="breadcrumb__delimiter"></div>
