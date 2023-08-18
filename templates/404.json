@@ -57,7 +57,8 @@
     "aafc6d62-9f6c-4aa2-bce9-d8144d51e00a": {
       "type": "image-banner",
       "custom_css": [
-        "h2 {font-size: 45px;}"
+        "h2 {font-size: 45px;}",
+        ".image-banner__wrapper {width: 1230px;}"
       ],
       "settings": {
         "full_width": true,
