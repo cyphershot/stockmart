@@ -5,6 +5,7 @@
       "blocks": {
         "template--20345149849911__32e4a0f7-7d12-40ab-bb19-e691cebbdd83-slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "color_scheme": "background-3",
             "subheading": "Subheading",
@@ -55,11 +56,14 @@
     },
     "aafc6d62-9f6c-4aa2-bce9-d8144d51e00a": {
       "type": "image-banner",
+      "custom_css": [
+        "h2 {font-size: 45px;}"
+      ],
       "settings": {
         "full_width": true,
         "color_scheme": "background-1",
-        "subheading": "Subheading",
-        "heading": "<p>Some header for your collection<\/p>",
+        "subheading": "",
+        "heading": "<p>Welcome to Memory Minted<\/p>",
         "heading_size": "medium",
         "text_information": "Some descriptive text for your collection. For better alignment, it is better to use text in several lines.",
         "text_align": "left",
@@ -67,8 +71,9 @@
         "button_label": "Shop now",
         "button_style": "primary",
         "button_link": "",
-        "image_ratio": "adapt",
-        "opacity_overlay": 0.5,
+        "image": "shopify:\/\/shop_images\/Home_LR_1.jpg",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
       }
@@ -119,7 +124,7 @@
             "subheading": "Some subheading",
             "color_text": "#282828",
             "show_subheading_dot": true,
-            "color_dot": "#40B66F",
+            "color_dot": "#40b66f",
             "heading": "Some heading",
             "text": "Some text."
           }
@@ -131,7 +136,7 @@
             "subheading": "Some subheading",
             "color_text": "#282828",
             "show_subheading_dot": true,
-            "color_dot": "#40B66F",
+            "color_dot": "#40b66f",
             "heading": "Some heading",
             "text": "Some text."
           }
@@ -143,7 +148,7 @@
             "subheading": "Some subheading",
             "color_text": "#282828",
             "show_subheading_dot": true,
-            "color_dot": "#40B66F",
+            "color_dot": "#40b66f",
             "heading": "Some heading",
             "text": "Some text."
           }

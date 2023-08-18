@@ -14,40 +14,8 @@
     "header": {
       "type": "header",
       "blocks": {
-        "dropdown": {
-          "type": "dropdown",
-          "disabled": true,
-          "settings": {
-            "shop_button_label": "Shop Now",
-            "shop_button_menu": "main-menu",
-            "button_style": "tertiary",
-            "show_promo_1": false,
-            "color_scheme_1": "dark",
-            "heading_1": "",
-            "description_1": "",
-            "overlay_opacity_1": 0,
-            "show_button_1": false,
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_label_1": "Button label",
-            "button_style_1": "primary",
-            "text_1": "",
-            "text_accent_1": "",
-            "show_promo_2": false,
-            "color_scheme_2": "dark",
-            "heading_2": "",
-            "description_2": "",
-            "overlay_opacity_2": 0,
-            "show_button_2": false,
-            "button_link_2": "shopify:\/\/collections",
-            "button_label_2": "Button label",
-            "button_style_2": "primary",
-            "text_2": "",
-            "text_accent_2": ""
-          }
-        },
         "fe59c0b0-79b7-4204-83c3-364360162097": {
           "type": "mega_menu",
-          "disabled": true,
           "settings": {
             "mega_menu_trigger": "",
             "heading": "Heading for links",
@@ -79,7 +47,6 @@
         }
       },
       "block_order": [
-        "dropdown",
         "fe59c0b0-79b7-4204-83c3-364360162097"
       ],
       "custom_css": [
@@ -90,7 +57,7 @@
         "header_type": "bottom-menu",
         "color_scheme": "background-1",
         "logo": "shopify:\/\/shop_images\/Memory-Minted_logoDesigns-v5.png",
-        "logo_width": 140,
+        "logo_width": 195,
         "menu": "main-menu",
         "small_menu": "",
         "enable_country_selector": true,
