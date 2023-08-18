@@ -89,7 +89,8 @@
       "settings": {
         "header_type": "bottom-menu",
         "color_scheme": "background-1",
-        "logo_width": 165,
+        "logo": "shopify:\/\/shop_images\/Memory-Minted_logoDesigns-v5.png",
+        "logo_width": 140,
         "menu": "main-menu",
         "small_menu": "",
         "enable_country_selector": true,
