@@ -454,6 +454,64 @@
         "margin_bottom": "no-indent"
       }
     },
+    "06c6f61a-7c33-4ef2-8b10-47e0ccb714c8": {
+      "type": "categories-list",
+      "blocks": {
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-3": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-5": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-6": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-1",
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-2",
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-3",
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-4",
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-5",
+        "template--20536312430913__06c6f61a-7c33-4ef2-8b10-47e0ccb714c8-collection_item-6"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "heading": "Collections",
+        "image_ratio": "landscape",
+        "image_fit": "cover",
+        "collections_to_show": 6,
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
     "24549cfa-e401-49de-aba0-56afbf65f4b7": {
       "type": "collapsible-content",
       "blocks": {
@@ -519,6 +577,7 @@
     "0550738d-5453-4a01-9e19-4a2501aec515",
     "ee4a14d3-75d1-44c7-b4d9-451398bb1ae1",
     "37aa3558-388a-42ce-ae9a-976123bff16d",
+    "06c6f61a-7c33-4ef2-8b10-47e0ccb714c8",
     "24549cfa-e401-49de-aba0-56afbf65f4b7",
     "ef3fc3ff-8ad0-4ace-a991-e1d70248f218"
   ]
