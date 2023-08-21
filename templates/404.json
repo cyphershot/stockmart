@@ -503,6 +503,7 @@
     },
     "37aa3558-388a-42ce-ae9a-976123bff16d": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "color_scheme": "background-1",
