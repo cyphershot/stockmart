@@ -39,7 +39,7 @@
         "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"\/\/memoryminted.com\/cdn\/shop\/files\/Home_LR_1.jpg?v=1692336082&amp;width=1296\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>About Ringmerry<\/h2>\n      <p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>\n    <\/div>"
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"\/\/memoryminted.com\/cdn\/shop\/files\/Home_LR_1.jpg?v=1692336082&amp;width=1296\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>About Memory Minted<\/h2>\n      <p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>\n    <\/div>"
       }
     },
     "98397c19-c5fd-47a3-9b69-8ce90695f427": {
