@@ -1,1 +1,92 @@
-{"type":"footer","name":"t:sections.footer.settings.footer-group.label","sections":{"footer":{"type":"footer","blocks":{"footer-0":{"type":"logo_info","settings":{"logo_width":250}},"footer-1":{"type":"link_list","settings":{"heading":"Quick links","menu":"main-menu"}},"e2782399-1f68-4e73-a6c5-14d4ba756bc2":{"type":"link_list","settings":{"heading":"Orders","menu":"orders"}},"1b896b31-8764-4058-badc-61bc726b18b5":{"type":"link_list","settings":{"heading":"Marketing & Innovation","menu":"marketing-innovation"}},"footer-3":{"type":"link_list","settings":{"heading":"Policies & Terms","menu":"policy-and-terms"}},"footer-4":{"type":"contacts","disabled":true,"settings":{"description":"","contact_info":"<p>About Ringmerry<\/p>"}},"4d4c3701-d5e5-4a8d-b283-c038f83c1d12":{"type":"link_list","settings":{"heading":"About Ringmerry","menu":"footer"}}},"block_order":["footer-0","footer-1","e2782399-1f68-4e73-a6c5-14d4ba756bc2","1b896b31-8764-4058-badc-61bc726b18b5","footer-3","footer-4","4d4c3701-d5e5-4a8d-b283-c038f83c1d12"],"custom_css":[".footer-block__details-content a {text-decoration: none; font-weight: 300; font-family: \"Poppins\";}",".footer__content-middle-container {border-top: none;}",".footer__content-middle-container {padding: 0;}"],"settings":{"color_scheme":"background-5","show_border":false,"enable_open_menu":false,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":false,"enable_follow_on_shop":true,"show_social":true,"show_policy":false,"enable_subscribe":false,"heading":"Don't miss any updates","button_style":"primary"}}},"order":["footer"]}
+{
+  "type": "footer",
+  "name": "t:sections.footer.settings.footer-group.label",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "logo_info",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/logo-favi-memoryminted.png",
+            "logo_width": 250
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "main-menu"
+          }
+        },
+        "e2782399-1f68-4e73-a6c5-14d4ba756bc2": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Orders",
+            "menu": ""
+          }
+        },
+        "1b896b31-8764-4058-badc-61bc726b18b5": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Marketing & Innovation",
+            "menu": ""
+          }
+        },
+        "footer-3": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Policies & Terms",
+            "menu": ""
+          }
+        },
+        "footer-4": {
+          "type": "contacts",
+          "disabled": true,
+          "settings": {
+            "description": "",
+            "contact_info": "<p>About Ringmerry<\/p>"
+          }
+        },
+        "4d4c3701-d5e5-4a8d-b283-c038f83c1d12": {
+          "type": "link_list",
+          "settings": {
+            "heading": "About Ringmerry",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1",
+        "e2782399-1f68-4e73-a6c5-14d4ba756bc2",
+        "1b896b31-8764-4058-badc-61bc726b18b5",
+        "footer-3",
+        "footer-4",
+        "4d4c3701-d5e5-4a8d-b283-c038f83c1d12"
+      ],
+      "custom_css": [
+        ".footer-block__details-content a {text-decoration: none; font-weight: 300; font-family: \"Poppins\";}",
+        ".footer__content-middle-container {border-top: none;}",
+        ".footer__content-middle-container {padding: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "background-5",
+        "show_border": false,
+        "enable_open_menu": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "show_policy": false,
+        "enable_subscribe": false,
+        "heading": "Don't miss any updates",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
