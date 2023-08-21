@@ -1,1 +1,682 @@
-{"sections":{"ce52a5fe-3393-40b8-af41-f8247234668e":{"type":"image-banner","disabled":true,"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"","heading_size":"medium","text_information":"","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner18.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"main":{"type":"main-page","disabled":true,"settings":{}},"25de6fc8-99a5-477f-88f3-77423cb5bf88":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; padding-top: 25px;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/2_1.jpg?v=1690176026&width=1780\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>About Ringmerry<\/h2>\n      <p>Welcome to the World of Innovation in Jewelry Branding and Retailing where Ringmerry.com is your Full-Service partner for all your Physical and Digital Sourcing needs. Our vast collection of diamonds, jewelry,and rendered images makes us one of the leading providers of new age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.<\/p>\n    <\/div>"}},"98397c19-c5fd-47a3-9b69-8ce90695f427":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"text-container\">\n      \n      <p>For decades, we have been supporting retailers in their Digital Transformation by providing an efficient supply chain of diamonds and jewelry, as well as offering technical solutions for website development, digital marketing, and content creation. We offers thousands of options for complete, semi-mount, and mounting jewelry pieces. With our experts stone setters, we guarantee that each piece is crafted to perfection. Our advanced inventory-less solutions provide a diverse selection of pricing and design to enable you to retain your customers<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner17.jpg?v=1690196199&width=2000\" alt=\"Image\">\n    <\/div>"}},"ef1371fe-8b91-456a-9e5c-18b8e5f20b08":{"type":"image-banner","disabled":true,"custom_css":[".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>About Ringmerry<\/p><h4><\/h4>","heading_size":"medium","text_information":"Welcome to the World of Innovation in Jewelry Branding and  Retailing where Ringmerry.com is your Full-Service partner for all your Physical and Digital Sourcing needs.   \nOur vast collection  of diamonds, jewelry,and rendered images makes us one of the  leading providers of new age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/about_us_10cbc1c1-c77f-4842-8dad-31a20efcb678.png","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"1b2d19ba-50df-4e97-93a0-da93b5281a7d":{"type":"image-banner","disabled":true,"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<h1>Full Service Supplier for Diamonds, Jewelry, Rendered Images and <br\/>Technology Transformational<br\/>Services of Independent Jewelry Retailers and Chain Stores in US<\/h1>","heading_size":"medium","text_information":"Some descriptive text for your collection. For better alignment, it is better to use text in several lines.","text_align":"left","show_view_all":true,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/medium-shot-man-wearing-vr-glasses.jpg","image_ratio":"adapt","opacity_overlay":0.5,"margin_top":"no-indent","margin_bottom":"no-indent"}},"form":{"type":"contact-form","disabled":true,"blocks":{"image-with-text":{"type":"image-with-text","disabled":true,"settings":{"subheading":"","heading":"ABOUT US","image":"shopify:\/\/shop_images\/about-us.jpg","height":"adapt","text":"<p>Welcome to the World of Innovation in Jewelry Branding and Retailing where r<a href=\"https:\/\/www.ringmerry.com\/ringmerry.com\" title=\"Ringmerry.com \">ingmerry.com <\/a>is your Full-Service partner for all your Physical and Digital Sourcing needs. Our vast collection of diamonds, jewelry, and rendered images makes us one of the leading providers of new-age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.<\/p>","column_text":"","name":"","author_position":"","padding_top":0,"padding_bottom":70}},"92bbeca2-3c86-446c-bcd8-d8887597ca9f":{"type":"image-with-text","disabled":true,"settings":{"subheading":"","heading":"For decades, we have been supporting retailers in their Digital transformation by providing","height":"adapt","text":"<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>","column_text":"Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.","name":"Author name","author_position":"Position of author or any other text","padding_top":0,"padding_bottom":70}},"5bc4dda1-f350-41e7-815a-fb0b7b2bc459":{"type":"image-with-text","disabled":true,"settings":{"subheading":"Subheading","heading":"Some heading for this section","height":"adapt","text":"<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>","column_text":"Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.","name":"Author name","author_position":"Position of author or any other text","padding_top":0,"padding_bottom":70}}},"block_order":["image-with-text","92bbeca2-3c86-446c-bcd8-d8887597ca9f","5bc4dda1-f350-41e7-815a-fb0b7b2bc459"],"settings":{"position":"right","layout":"top","heading":"<p>Contact form<\/p>","additional_text":"<p>Additional text for contact form.<\/p>","padding_top":"no-indent","padding_bottom":"m"}},"6ae40c43-e577-452c-9b48-b107b2e4f456":{"type":"rich-text","disabled":true,"blocks":{"template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-0":{"type":"subheading","settings":{"subheading":""}},"template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-1":{"type":"heading","disabled":true,"settings":{"heading":"<p>About Ringmerry<\/p>","heading_size":"large"}},"template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-2":{"type":"text","disabled":true,"settings":{"text":"<h2>Our vast collection  of diamonds, jewelry,and rendered images makes us one of the  leading providers of new age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.<\/h2>"}},"template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-3":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style":"primary"}}},"block_order":["template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-0","template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-1","template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-2","template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-3"],"settings":{"color_scheme":"background-1","full_width":true,"margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"xl","padding_bottom":"xl"}},"44ce50b3-10c6-4290-be16-65ae258ed514":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__column--column {margin-left: auto;}",".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",".image-banner__text {font-size: 20px;}",".image-banner__text {font-size: 15px; margin-left: 35px; \/* text-decoration: none; *\/ font-weight: 400; font-family: \"Poppins\";}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"","heading_size":"medium","text_information":"For decades, we have been supporting retailers in their Digital Transformation by providing an efficient supply chain of diamonds and jewelry, as well as offering technical solutions for website development, digital marketing, and content creation.\n\nWe offers thousands of options for complete, semi-mount,  and mounting jewelry pieces. With our experts stone setters, we guarantee that each piece is crafted to perfection.\nOur advanced inventory-less solutions provide a diverse selection of pricing and design to enable you to retain your customers","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner10_2.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"918d13f3-1584-42fd-a372-1f54d11df97e":{"type":"product-slider","disabled":true,"blocks":{"template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-0":{"type":"product_slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/RIng_in_10_fing-2.png","product":"","subheading":"","color_text":"#282828","show_subheading_dot":true,"color_dot":"#40b66f","heading":"About Us","text":"At RingMerry, our mission is to help you succeed in the digital transformation of your online store."}},"template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-1":{"type":"product_slide","disabled":true,"settings":{"product":"","subheading":"Some subheading","color_text":"#282828","show_subheading_dot":true,"color_dot":"#40b66f","heading":"Some heading","text":"Some text."}},"template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-2":{"type":"product_slide","disabled":true,"settings":{"product":"","subheading":"Some subheading","color_text":"#282828","show_subheading_dot":true,"color_dot":"#40b66f","heading":"Some heading","text":"Some text."}}},"block_order":["template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-0","template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-1","template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-2"],"settings":{"color_scheme":"2","desktop_alignment":"right","mobile_alignment":"before","image_fit":"cover","slide_duration":10,"show_vendor":true,"image_ratio":"landscape","image_fit_card":"cover","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"no-indent","padding_bottom":"no-indent"}},"1374a121-815e-4579-a769-3a74cf62cc74":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner18.jpg?v=1690196834&width=2000\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n   \n      <p>Impress your customers with our cutting-edge rendering technology and selection from million of CADs, images and videos and build your online store<\/p>\n    <\/div>"}},"22ee1e9d-4a86-4f6a-b15c-ae0ff36252d6":{"type":"image-banner","disabled":true,"custom_css":["p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p><\/p><h2><\/h2><p><\/p>","heading_size":"medium","text_information":"Impress your customers with our cutting-edge rendering technology and selection from million of CADs, images and videos and build your online store","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"shopify:\/\/collections","image":"shopify:\/\/shop_images\/double-ring-about-us_1.png","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"bafbf507-26c8-4650-b686-0b8c9fde4e0c":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__column--column {margin-left: auto;}",".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",".image-banner__text {font-size: 20px; color: floralwhite;}"],"settings":{"full_width":true,"color_scheme":"background-3","subheading":"","heading":"","heading_size":"medium","text_information":"","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/cad.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"00010731-aaa9-4cf0-b776-df15716ada5c":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__heading title--section title--decorate title--section-mt-none h2 {margin-left: 20px;}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-2","subheading":"","heading":"","heading_size":"medium","text_information":"Our custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders.\n\nOur digital marketing services include search engine optimization(SEO), social media marketing(SMM), and content marketings.\n\nOur team of experienced digital marketing professionals can assist you in creating and implementing campaigns that effectively engage your target audience, driving traffic to your website and increasing sales","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner10_1_1.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"b0745dbf-ed36-4267-b987-cefc88c17037":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"text-container\">\n      \n      <p>\nOur custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders. Our digital marketing services include search engine optimization(SEO), social media marketing(SMM), and content marketings. Our team of experienced digital marketing professionals can assist you in creating and implementing campaigns that effectively engage your target audience, driving traffic to your website and increasing sales<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner10_2.jpg?v=1690196350&width=2000\" alt=\"Image\">"}},"65b4248b-0924-4fcc-a58d-4eaef769444d":{"type":"custom-liquid","custom_css":[".video-banner {position: relative; width: 100%; height: 500px; \/* Set your desired height for the banner *\/ overflow: hidden;}","video {width: 100%; height: 100%; object-fit: cover;}"],"settings":{"custom_liquid":"<div class=\"video-banner\">\n    <video autoplay loop muted playsinline poster=\"path\/to\/poster-image.jpg\">\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/vp\/f24fb2b3e48a4ebaaea09e8846297da1\/f24fb2b3e48a4ebaaea09e8846297da1.HD-1080p-7.2Mbps-16074015.mp4\" type=\"video\/mp4\">\n      Your browser does not support the video tag.\n    <\/video>\n  <\/div>"}},"613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4":{"type":"slideshow","disabled":true,"blocks":{"template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-0":{"type":"slide","settings":{"color_scheme":"background-1","subheading":"","heading":"","heading_size":"large","description":"","show_button":false,"button_style":"secondary","button_label":"Explore Our Store","button_link":"","image":"shopify:\/\/shop_images\/banner9.jpg","overlay_opacity":0.2}},"template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-1":{"type":"slide","settings":{"color_scheme":"background-3","subheading":"","heading":"Natural Mined and Lab Grown \nDiamonds","heading_size":"medium","description":"With our expert stone setters, we guarantee that each piece is crafted to perfection. Our advanced inventory-less solutions provide a diverse \nselection of pricing and design to enable you to retain your customers.\nImpress your customers with our cutting-edge rendering technology and selection from millions of CADs, images and videos and build your online store. \ncription","show_button":true,"button_style":"primary","button_label":"Explore Our Store","button_link":"","image":"shopify:\/\/shop_images\/About-us-banner-3.jpg","overlay_opacity":0.5}},"e73a7757-a021-43af-8d3a-ee7d0d9a12fe":{"type":"slide","settings":{"color_scheme":"background-3","subheading":"","heading":"Digital Services","heading_size":"medium","description":"Our custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders.Some description","show_button":true,"button_style":"primary","button_label":"Explore Our Store","button_link":"","image":"shopify:\/\/shop_images\/About-us-banner-4.jpg","overlay_opacity":0.5}},"cdce843f-765d-46f0-8ca4-c9492ce61aea":{"type":"slide","disabled":true,"settings":{"color_scheme":"background-3","subheading":"Subheading","heading":"Some heading","heading_size":"medium","description":"Some description","show_button":true,"button_style":"primary","button_label":"Explore Our Store","button_link":"","overlay_opacity":0.5}},"ae40d790-8c90-4d75-a35f-f71718f18150":{"type":"slide","disabled":true,"settings":{"color_scheme":"background-3","subheading":"Subheading","heading":"Some heading","heading_size":"medium","description":"Some description","show_button":true,"button_style":"primary","button_label":"Explore Our Store","button_link":"","overlay_opacity":0.5}}},"block_order":["template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-0","template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-1","e73a7757-a021-43af-8d3a-ee7d0d9a12fe","cdce843f-765d-46f0-8ca4-c9492ce61aea","ae40d790-8c90-4d75-a35f-f71718f18150"],"settings":{"color_scheme":"background-1","full_width":true,"height":"16\/9","enable_autoplay":false,"slide_duration":5,"controls_color_scheme":"light","padding_top":"no-indent","padding_bottom":"no-indent","margin_top":"no-indent","margin_bottom":"no-indent"}},"1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f":{"type":"newsletter","settings":{"align_content":"left","full_width":true,"heading":"<p>Get access to exclusive deals<\/p>","newsletter_text":"","button_style":"primary","padding_top":"m","padding_bottom":"m"}},"ffae44b0-9c47-4ca2-b8bb-448d9af63d8c":{"type":"brands","disabled":true,"blocks":{"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-3":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/ringmerry-Logo.png","image_width":145,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-0":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/ringmerry.png","image_width":205,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-1":{"type":"column","disabled":true,"settings":{"image_width":60,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-2":{"type":"column","disabled":true,"settings":{"image_width":60,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-4":{"type":"column","disabled":true,"settings":{"image_width":60,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-5":{"type":"column","disabled":true,"settings":{"image_width":60,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-6":{"type":"column","disabled":true,"settings":{"image_width":60,"brand_link":""}},"template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-7":{"type":"column","disabled":true,"settings":{"image_width":60,"brand_link":""}}},"block_order":["template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-3","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-0","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-1","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-2","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-4","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-5","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-6","template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-7"],"settings":{"color_scheme":"background-1","border_top":false,"border_bottom":false,"padding_top":"s","padding_bottom":"s"}},"48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f":{"type":"featured-blog","disabled":true,"settings":{"color_scheme":"background-1","color_scheme_card":"background-2","subheading":"","heading":"Latest Articles","heading_size":"h3","post_layout":"grid","image_width":"small","image_fit":"contain","icon_background":"background-2","blog":"news","post_limit":3,"post_limit_mobile":3,"show_image":true,"show_tags":true,"show_date":true,"show_author":true,"show_excerpt":false,"show_view_all":false,"show_view_all_mobile":true,"button_label":"Button label","button_style":"secondary","padding_top":"m","padding_bottom":"m"}}},"order":["ce52a5fe-3393-40b8-af41-f8247234668e","main","25de6fc8-99a5-477f-88f3-77423cb5bf88","98397c19-c5fd-47a3-9b69-8ce90695f427","ef1371fe-8b91-456a-9e5c-18b8e5f20b08","1b2d19ba-50df-4e97-93a0-da93b5281a7d","form","6ae40c43-e577-452c-9b48-b107b2e4f456","44ce50b3-10c6-4290-be16-65ae258ed514","918d13f3-1584-42fd-a372-1f54d11df97e","1374a121-815e-4579-a769-3a74cf62cc74","22ee1e9d-4a86-4f6a-b15c-ae0ff36252d6","bafbf507-26c8-4650-b686-0b8c9fde4e0c","00010731-aaa9-4cf0-b776-df15716ada5c","b0745dbf-ed36-4267-b987-cefc88c17037","65b4248b-0924-4fcc-a58d-4eaef769444d","613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4","1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f","ffae44b0-9c47-4ca2-b8bb-448d9af63d8c","48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"]}
+{
+  "sections": {
+    "ce52a5fe-3393-40b8-af41-f8247234668e": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "25de6fc8-99a5-477f-88f3-77423cb5bf88": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; padding-top: 25px;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"\/\/memoryminted.com\/cdn\/shop\/files\/Home_LR_1.jpg?v=1692336082&amp;width=1296\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>About Ringmerry<\/h2>\n      <p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>\n    <\/div>"
+      }
+    },
+    "98397c19-c5fd-47a3-9b69-8ce90695f427": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"text-container\">\n      \n      <p>For decades, we have been supporting retailers in their Digital Transformation by providing an efficient supply chain of diamonds and jewelry, as well as offering technical solutions for website development, digital marketing, and content creation. We offers thousands of options for complete, semi-mount, and mounting jewelry pieces. With our experts stone setters, we guarantee that each piece is crafted to perfection. Our advanced inventory-less solutions provide a diverse selection of pricing and design to enable you to retain your customers<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner17.jpg?v=1690196199&width=2000\" alt=\"Image\">\n    <\/div>"
+      }
+    },
+    "ef1371fe-8b91-456a-9e5c-18b8e5f20b08": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>About Ringmerry<\/p><h4><\/h4>",
+        "heading_size": "medium",
+        "text_information": "Welcome to the World of Innovation in Jewelry Branding and  Retailing where Ringmerry.com is your Full-Service partner for all your Physical and Digital Sourcing needs.   \nOur vast collection  of diamonds, jewelry,and rendered images makes us one of the  leading providers of new age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "1b2d19ba-50df-4e97-93a0-da93b5281a7d": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<h1>Full Service Supplier for Diamonds, Jewelry, Rendered Images and <br\/>Technology Transformational<br\/>Services of Independent Jewelry Retailers and Chain Stores in US<\/h1>",
+        "heading_size": "medium",
+        "text_information": "Some descriptive text for your collection. For better alignment, it is better to use text in several lines.",
+        "text_align": "left",
+        "show_view_all": true,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0.5,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "blocks": {
+        "image-with-text": {
+          "type": "image-with-text",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "heading": "ABOUT US",
+            "height": "adapt",
+            "text": "<p>Welcome to the World of Innovation in Jewelry Branding and Retailing where r<a href=\"https:\/\/www.ringmerry.com\/ringmerry.com\" title=\"Ringmerry.com \">ingmerry.com <\/a>is your Full-Service partner for all your Physical and Digital Sourcing needs. Our vast collection of diamonds, jewelry, and rendered images makes us one of the leading providers of new-age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.<\/p>",
+            "column_text": "",
+            "name": "",
+            "author_position": "",
+            "padding_top": 0,
+            "padding_bottom": 70
+          }
+        },
+        "92bbeca2-3c86-446c-bcd8-d8887597ca9f": {
+          "type": "image-with-text",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "heading": "For decades, we have been supporting retailers in their Digital transformation by providing",
+            "height": "adapt",
+            "text": "<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>",
+            "column_text": "Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.",
+            "name": "Author name",
+            "author_position": "Position of author or any other text",
+            "padding_top": 0,
+            "padding_bottom": 70
+          }
+        },
+        "5bc4dda1-f350-41e7-815a-fb0b7b2bc459": {
+          "type": "image-with-text",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Some heading for this section",
+            "height": "adapt",
+            "text": "<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>",
+            "column_text": "Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.",
+            "name": "Author name",
+            "author_position": "Position of author or any other text",
+            "padding_top": 0,
+            "padding_bottom": 70
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text",
+        "92bbeca2-3c86-446c-bcd8-d8887597ca9f",
+        "5bc4dda1-f350-41e7-815a-fb0b7b2bc459"
+      ],
+      "disabled": true,
+      "settings": {
+        "position": "right",
+        "layout": "top",
+        "heading": "<p>Contact form<\/p>",
+        "additional_text": "<p>Additional text for contact form.<\/p>",
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    },
+    "6ae40c43-e577-452c-9b48-b107b2e4f456": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-0": {
+          "type": "subheading",
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>About Ringmerry<\/p>",
+            "heading_size": "large"
+          }
+        },
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h2>Our vast collection  of diamonds, jewelry,and rendered images makes us one of the  leading providers of new age solutions to Independent Retailers, Chain Stores, Designers, and Boutiques.<\/h2>"
+          }
+        },
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-0",
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-1",
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-2",
+        "template--19767131767062__6ae40c43-e577-452c-9b48-b107b2e4f456-1689164704e793e471-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xl",
+        "padding_bottom": "xl"
+      }
+    },
+    "44ce50b3-10c6-4290-be16-65ae258ed514": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__column--column {margin-left: auto;}",
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        ".image-banner__text {font-size: 20px;}",
+        ".image-banner__text {font-size: 15px; margin-left: 35px; \/* text-decoration: none; *\/ font-weight: 400; font-family: \"Poppins\";}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "For decades, we have been supporting retailers in their Digital Transformation by providing an efficient supply chain of diamonds and jewelry, as well as offering technical solutions for website development, digital marketing, and content creation.\n\nWe offers thousands of options for complete, semi-mount,  and mounting jewelry pieces. With our experts stone setters, we guarantee that each piece is crafted to perfection.\nOur advanced inventory-less solutions provide a diverse selection of pricing and design to enable you to retain your customers",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "918d13f3-1584-42fd-a372-1f54d11df97e": {
+      "type": "product-slider",
+      "blocks": {
+        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-0": {
+          "type": "product_slide",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40b66f",
+            "heading": "About Us",
+            "text": "At RingMerry, our mission is to help you succeed in the digital transformation of your online store."
+          }
+        },
+        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-1": {
+          "type": "product_slide",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "subheading": "Some subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40b66f",
+            "heading": "Some heading",
+            "text": "Some text."
+          }
+        },
+        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-2": {
+          "type": "product_slide",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "subheading": "Some subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40b66f",
+            "heading": "Some heading",
+            "text": "Some text."
+          }
+        }
+      },
+      "block_order": [
+        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-0",
+        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-1",
+        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "2",
+        "desktop_alignment": "right",
+        "mobile_alignment": "before",
+        "image_fit": "cover",
+        "slide_duration": 10,
+        "show_vendor": true,
+        "image_ratio": "landscape",
+        "image_fit_card": "cover",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "1374a121-815e-4579-a769-3a74cf62cc74": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner18.jpg?v=1690196834&width=2000\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n   \n      <p>Impress your customers with our cutting-edge rendering technology and selection from million of CADs, images and videos and build your online store<\/p>\n    <\/div>"
+      }
+    },
+    "22ee1e9d-4a86-4f6a-b15c-ae0ff36252d6": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p><\/p><h2><\/h2><p><\/p>",
+        "heading_size": "medium",
+        "text_information": "Impress your customers with our cutting-edge rendering technology and selection from million of CADs, images and videos and build your online store",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "shopify:\/\/collections",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "bafbf507-26c8-4650-b686-0b8c9fde4e0c": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__column--column {margin-left: auto;}",
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        ".image-banner__text {font-size: 20px; color: floralwhite;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-3",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "00010731-aaa9-4cf0-b776-df15716ada5c": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__heading title--section title--decorate title--section-mt-none h2 {margin-left: 20px;}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "Our custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders.\n\nOur digital marketing services include search engine optimization(SEO), social media marketing(SMM), and content marketings.\n\nOur team of experienced digital marketing professionals can assist you in creating and implementing campaigns that effectively engage your target audience, driving traffic to your website and increasing sales",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "b0745dbf-ed36-4267-b987-cefc88c17037": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"text-container\">\n      \n      <p>\nOur custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders. Our digital marketing services include search engine optimization(SEO), social media marketing(SMM), and content marketings. Our team of experienced digital marketing professionals can assist you in creating and implementing campaigns that effectively engage your target audience, driving traffic to your website and increasing sales<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner10_2.jpg?v=1690196350&width=2000\" alt=\"Image\">"
+      }
+    },
+    "65b4248b-0924-4fcc-a58d-4eaef769444d": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".video-banner {position: relative; width: 100%; height: 500px; \/* Set your desired height for the banner *\/ overflow: hidden;}",
+        "video {width: 100%; height: 100%; object-fit: cover;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"video-banner\">\n    <video autoplay loop muted playsinline poster=\"path\/to\/poster-image.jpg\">\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/vp\/f24fb2b3e48a4ebaaea09e8846297da1\/f24fb2b3e48a4ebaaea09e8846297da1.HD-1080p-7.2Mbps-16074015.mp4\" type=\"video\/mp4\">\n      Your browser does not support the video tag.\n    <\/video>\n  <\/div>"
+      }
+    },
+    "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-0": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-1",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "large",
+            "description": "",
+            "show_button": false,
+            "button_style": "secondary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.2
+          }
+        },
+        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-1": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "",
+            "heading": "Natural Mined and Lab Grown \nDiamonds",
+            "heading_size": "medium",
+            "description": "With our expert stone setters, we guarantee that each piece is crafted to perfection. Our advanced inventory-less solutions provide a diverse \nselection of pricing and design to enable you to retain your customers.\nImpress your customers with our cutting-edge rendering technology and selection from millions of CADs, images and videos and build your online store. \ncription",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        },
+        "e73a7757-a021-43af-8d3a-ee7d0d9a12fe": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "",
+            "heading": "Digital Services",
+            "heading_size": "medium",
+            "description": "Our custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders.Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        },
+        "cdce843f-765d-46f0-8ca4-c9492ce61aea": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        },
+        "ae40d790-8c90-4d75-a35f-f71718f18150": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        }
+      },
+      "block_order": [
+        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-0",
+        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-1",
+        "e73a7757-a021-43af-8d3a-ee7d0d9a12fe",
+        "cdce843f-765d-46f0-8ca4-c9492ce61aea",
+        "ae40d790-8c90-4d75-a35f-f71718f18150"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "height": "16\/9",
+        "enable_autoplay": false,
+        "slide_duration": 5,
+        "controls_color_scheme": "light",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f": {
+      "type": "newsletter",
+      "settings": {
+        "align_content": "left",
+        "full_width": true,
+        "heading": "<p>Get access to exclusive deals<\/p>",
+        "newsletter_text": "",
+        "button_style": "primary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c": {
+      "type": "brands",
+      "blocks": {
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-3": {
+          "type": "column",
+          "settings": {
+            "image_width": 145,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-0": {
+          "type": "column",
+          "settings": {
+            "image_width": 205,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-4": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-6": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        },
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-7": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-3",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-0",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-1",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-2",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-4",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-5",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-6",
+        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-7"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "border_top": false,
+        "border_bottom": false,
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_card": "background-2",
+        "subheading": "",
+        "heading": "Latest Articles",
+        "heading_size": "h3",
+        "post_layout": "grid",
+        "image_width": "small",
+        "image_fit": "contain",
+        "icon_background": "background-2",
+        "blog": "news",
+        "post_limit": 3,
+        "post_limit_mobile": 3,
+        "show_image": true,
+        "show_tags": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": false,
+        "show_view_all": false,
+        "show_view_all_mobile": true,
+        "button_label": "Button label",
+        "button_style": "secondary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "ce52a5fe-3393-40b8-af41-f8247234668e",
+    "main",
+    "25de6fc8-99a5-477f-88f3-77423cb5bf88",
+    "98397c19-c5fd-47a3-9b69-8ce90695f427",
+    "ef1371fe-8b91-456a-9e5c-18b8e5f20b08",
+    "1b2d19ba-50df-4e97-93a0-da93b5281a7d",
+    "form",
+    "6ae40c43-e577-452c-9b48-b107b2e4f456",
+    "44ce50b3-10c6-4290-be16-65ae258ed514",
+    "918d13f3-1584-42fd-a372-1f54d11df97e",
+    "1374a121-815e-4579-a769-3a74cf62cc74",
+    "22ee1e9d-4a86-4f6a-b15c-ae0ff36252d6",
+    "bafbf507-26c8-4650-b686-0b8c9fde4e0c",
+    "00010731-aaa9-4cf0-b776-df15716ada5c",
+    "b0745dbf-ed36-4267-b987-cefc88c17037",
+    "65b4248b-0924-4fcc-a58d-4eaef769444d",
+    "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4",
+    "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f",
+    "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c",
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"
+  ]
+}
