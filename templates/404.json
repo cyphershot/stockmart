@@ -454,7 +454,7 @@
       "type": "image-banner",
       "settings": {
         "full_width": true,
-        "color_scheme": "background-4",
+        "color_scheme": "background-3",
         "subheading": "",
         "heading": "<p>Welcome to the world of collecting coins!<\/p>",
         "heading_size": "medium",
