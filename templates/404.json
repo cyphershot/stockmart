@@ -2,6 +2,7 @@
   "sections": {
     "68090c4d-25bd-49f7-bb0b-bc74b8831211": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "color_scheme": "background-2",
@@ -58,6 +59,26 @@
         "padding_bottom": "m"
       }
     },
+    "775b1adc-2784-4b96-8930-eb6dffbcaaea": {
+      "type": "image-banner",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "Subheading",
+        "heading": "<p>Some header for your collection<\/p>",
+        "heading_size": "medium",
+        "text_information": "Some descriptive text for your collection. For better alignment, it is better to use text in several lines.",
+        "text_align": "left",
+        "show_view_all": true,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0.5,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
     "4ea1f864-f657-497d-b3a0-fa9d96af9545": {
       "type": "product-slider",
       "blocks": {
@@ -104,7 +125,7 @@
             "subheading": "Some subheading",
             "color_text": "#282828",
             "show_subheading_dot": true,
-            "color_dot": "#40B66F",
+            "color_dot": "#40b66f",
             "heading": "Some heading",
             "text": "Some text."
           }
@@ -298,6 +319,7 @@
         "template--20536312430913__c0a88ebb-ded8-4a79-b692-0006d543d73a-column-3",
         "template--20536312430913__c0a88ebb-ded8-4a79-b692-0006d543d73a-column-4"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "columns": 4,
@@ -338,7 +360,7 @@
         "template--20536312430913__2633c4ca-bd3f-401d-8a45-db4718ba39cf-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/save_1.png",
+            "image": "shopify:\/\/shop_images\/save_2.png",
             "heading": "Assured Lifetime Insurance",
             "text": ""
           }
@@ -346,7 +368,7 @@
         "template--20536312430913__2633c4ca-bd3f-401d-8a45-db4718ba39cf-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/repeat.png",
+            "image": "shopify:\/\/shop_images\/loop.png",
             "heading": "Easy Exchange",
             "text": ""
           }
@@ -354,15 +376,15 @@
         "template--20536312430913__2633c4ca-bd3f-401d-8a45-db4718ba39cf-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/life-insurance.png",
-            "heading": "Life  Insurance",
+            "image": "shopify:\/\/shop_images\/security.png",
+            "heading": "Complete\nTransparency",
             "text": ""
           }
         },
         "template--20536312430913__2633c4ca-bd3f-401d-8a45-db4718ba39cf-column-4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/coins_1.png",
+            "image": "shopify:\/\/shop_images\/coins_2.png",
             "heading": "Tested&Certified Coins",
             "text": ""
           }
@@ -566,13 +588,13 @@
           "settings": {
             "image_size": "cover",
             "opacity_overlay": 0.1,
-            "background_color": "#CCCCCC",
+            "background_color": "#cccccc",
             "product": "",
             "text_color_scheme": "dark",
             "subheading": "Subheading",
             "color_text": "#282828",
             "show_subheading_dot": false,
-            "color_dot": "#40B66F",
+            "color_dot": "#40b66f",
             "heading": "Heading",
             "heading_size": "h2",
             "text": "Some description",
@@ -587,13 +609,13 @@
           "settings": {
             "image_size": "cover",
             "opacity_overlay": 0.1,
-            "background_color": "#CCCCCC",
+            "background_color": "#cccccc",
             "product": "",
             "text_color_scheme": "dark",
             "subheading": "Subheading",
             "color_text": "#282828",
             "show_subheading_dot": false,
-            "color_dot": "#40B66F",
+            "color_dot": "#40b66f",
             "heading": "Heading",
             "heading_size": "h2",
             "text": "Some description",
@@ -678,6 +700,7 @@
     "68090c4d-25bd-49f7-bb0b-bc74b8831211",
     "main",
     "4fb56167-5f28-4749-9987-bb1616b7fcff",
+    "775b1adc-2784-4b96-8930-eb6dffbcaaea",
     "4ea1f864-f657-497d-b3a0-fa9d96af9545",
     "c0a88ebb-ded8-4a79-b692-0006d543d73a",
     "54428df7-8a99-4adf-b430-2337d47407f7",
