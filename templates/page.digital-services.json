@@ -1,1 +1,272 @@
-{"sections":{"main":{"type":"main-page","settings":{}},"176865c8-ad3d-4045-80b4-a1edb3bdf9bd":{"type":"rich-text","blocks":{"template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-0":{"type":"subheading","settings":{"subheading":""}},"template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-1":{"type":"heading","settings":{"heading":"<p><strong>Welcome To Digital Transformation For Jewelers<\/strong><\/p>","heading_size":"medium"}},"template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-2":{"type":"text","settings":{"text":"<h3>At RingMerry, our mission is to help you succeed in the digital transformation of your online store.<\/h3><h3> With our years of experience in the online jewelry selling, we can help you create an efficient and effective digital strategies & Solutions that will help you reach your target customers and grow your jewelry business.<\/h3><h3><\/h3><h3>  We specilise in digital solution for jewelry business, weather its high quality rendered images, writing content & creatives for your business or designing your website, we have it coverd all at one place.<\/h3><h3> Our digital marketing services include everything from SEARCH ENGINEE OPTIMIZATION(SEO) to SOCIAL MEDIA MARKETING(SMM) to CONTENT MARKETING. With our team of experienced digital marketing professionals<\/h3><h3><\/h3><h3> <\/h3><h3>We can help you create and implement campaigns that will engage your target audience and get them to visit your website and make purchases.<\/h3>"}},"template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-3":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style":"primary"}}},"block_order":["template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-0","template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-1","template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-2","template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-3"],"custom_css":["h2 {font-weight: 300; font-family: \"Poppins\";}","h3 {font-weight: 300; font-family: \"Poppins\"; text-align: start; line-height: 1.5;}","p strong {font-weight: 400; font-family: \"Poppins\";}"],"settings":{"color_scheme":"background-2","full_width":true,"margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"xs","padding_bottom":"s"}},"63c34c62-4b70-465e-9fac-759ffb5f45e5":{"type":"image-banner","disabled":true,"custom_css":[".banner__overlay {background-color: rgba(var(--color-overlay), 0);}"],"settings":{"full_width":true,"color_scheme":"background-2","subheading":"","heading":"<p>RENDERING IMAGES & VIDEOS<\/p>","heading_size":"large","text_information":"Creating your digital library and organizing your digital assets with beautiful and unique  photorealistic images of jewelry is an important step in showcasing the pieces to potential customers. Capture that sparkle and shine of each piece. \n\nOur rendering technology produces images that accurately represent the size, colour, texture, and finish of each piece. Our software uses advanced techniques to create an image that looks as realistic as possible and can be used in advertising or on product pages. Additionally, the advanced features of our software allow for advanced composition and lighting for images that will stand out and make an impact.\nCAD SERVICES You can get a CAD drawing created by our expert team or choose from our bank of CAD for your requirements.\n\nWe have achieved revolutionary new way to create renderings of your designs, using software that leverages the power of AI and machine learning to generate stunning images.Get your jewelry rendered images created by our expert team or choose from our bank of high quality rendered Images.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner5_horizontal.jpg","image_ratio":"adapt","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"9b656bb3-4813-4c2f-bf80-bd3bb1cc5477":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; padding-top: 25px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner4-horizontal_1_e8f09bd2-2dda-4faf-9cd0-949e5a98866b.jpg?v=1690190049&width=1296\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>WEBSITE DESIGN & BUILD<\/h2>\n      <p>From creating a beautiful website to processing payments and shipping orders, RingMerry is the ultimate ecommerce solution provider for jewelers of all sizes.<\/p>\n    <\/div>"}},"f97a2e00-3d0c-4344-a8eb-65307dbeee95":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row;}",".content {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}","h2 {font-weight: 300; font-family: \"Poppins\";}",".content ul {list-style-type: disc; padding-left: 20px;}",".content li {margin-bottom: 10px;}",".content p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"content\">\n      <h2>CONTENT & CREATIVES<\/h2> <!-- Add the heading here -->\n      <ul>\n        <li>We will create a logo that is unique, stylish, creative and appealing to your target audience.<\/li>\n        <li>Get noticed by potential customers and increase sales so they become loyal customers who come back over time.<\/li>\n        <li>We're here to help you create a company identity that stands out and inspires trust.<\/li>\n        <li>Get the most out of your packaging by using it as a way to connect your brand with your target audience<\/li>\n        <li>We do custom do printing for your jewelry business! We specialize in doing high quality, affordable, and customizable digital printing services.<\/li>\n      <\/ul>\n      <p><\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner8_1.jpg?v=1690191854&width=750\" alt=\"Image\">\n    <\/div>\n  <\/div>"}},"738689c0-982e-4c2e-a362-5bd52c5c6d0b":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; padding-top: 25px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner6-horizontal_1.jpg?v=1690193572&width=750\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>ONE STOP E-COMMERCE SOLUTIONS<\/h2>\n      <p>Take your business from a \nbrick-and-mortar storefront to the World Wide Web !\nEverything you need in one place!<\/p>\n    <\/div>"}},"864713bd-7e47-467c-8a01-7cd9a5974a23":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__column--column {margin-left: auto;}",".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>WEBSITE DESIGN & BUILD<\/p>","heading_size":"medium","text_information":"From creating a beautiful website to processing payments and shipping orders, RingMerry is the ultimate ecommerce solution provider for jewelers of all sizes.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner4-horizontal_1_e8f09bd2-2dda-4faf-9cd0-949e5a98866b.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"d53cfeed-d032-4c1e-9776-5e0157748faa":{"type":"image-banner","disabled":true,"custom_css":[".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}","h3 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>CONTENT & CREATIVES<\/p><ul><li><h3>We will create a logo that is unique, stylish, creative and appealing to your target audience. <\/h3><\/li><li><h3>Get noticed by potential customers and increase sales so they become loyal customers who come back over time. <\/h3><\/li><li><h3>We're here to help you create a company identity that stands out and inspires trust.<\/h3><\/li><li><h3>Get the most out of your packaging by using it as a way to connect your brand with your target audience.<\/h3><\/li><li><h3>We do custom do printing for your jewelry business! We specialize in doing high quality, affordable, and customizable digital printing services.<\/h3><\/li><\/ul>","heading_size":"medium","text_information":"","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner8_1.jpg","image_ratio":"landscape","opacity_overlay":0.5,"margin_top":"no-indent","margin_bottom":"no-indent"}},"190349e7-10e7-473f-b4ab-190feebe6339":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__column--column {margin-left: auto;}",".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>ONE STOP E-COMMERCE SOLUTIONS<\/p>","heading_size":"medium","text_information":"Take your business from a \nbrick-and-mortar storefront to the World Wide Web !\nEverything you need in one place!","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner6-horizontal_1.jpg","image_ratio":"landscape","opacity_overlay":0.5,"margin_top":"no-indent","margin_bottom":"no-indent"}},"aaf5e2a8-5a12-4e48-a91e-aba46c368290":{"type":"image-banner","disabled":true,"custom_css":[".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","h1 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}","h3 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}","h2 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<h1>ORDER MANAGEMENT<\/h1><ul><li><h3>We can step in and help you when your jewellery business needs an effective and efficient way to manage your orders<\/h3><\/li><li><h3>We manage every aspect of your online jewellery business, from order tracking to inventory management. Our support services will save you time and money, allowing you to focus on growing your business instead of managing it.<\/h3><\/li><li><h3>Our team and systems are highly intuitive and customer-friendly<\/h3><\/li><\/ul><h2>We assist in:<\/h2><p><\/p><ul><li><h3><strong> Order tracking:<\/strong> Keep track of all your orders from the time they are placed, through shipping and delivery.<\/h3><\/li><li><h3><strong>Inventory management:<\/strong> Easily monitor your inventory levels and update your items as necessary.<\/h3><\/li><li><h3><strong>Customer databases:<\/strong> Store important customer information and easily access it for quick service.<\/h3><\/li><\/ul><p><\/p>","heading_size":"medium","text_information":"","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner7_2.jpg","image_ratio":"adapt","opacity_overlay":0.5,"margin_top":"no-indent","margin_bottom":"no-indent"}},"837c313a-5c23-4340-97c5-cee3ed7f6430":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row;}",".content {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}","h2 {font-weight: 300; font-family: \"Poppins\";}",".content ul {list-style-type: disc; padding-left: 20px;}",".content li {margin-bottom: 10px;}",".content p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"content\">\n      <h2>ORDER MANAGEMENT<\/h2> <!-- Add the heading here -->\n      <ul>\n        <li>We can step in and help you when your jewellery business needs an effective and efficient way to manage your orders<\/li>\n        <li>We manage every aspect of your online jewellery business, from order tracking to inventory management. Our support services will save you time and money, allowing you to focus on growing your business instead of managing it.<\/li>\n        <li>Our team and systems are highly intuitive and customer-friendly<\/li>\n       \n      \n      <\/ul>\n<h3>We assist in:<\/h3>\n<li> Order tracking: \n Keep track of all your orders from the time they are placed, through shipping and delivery. <\/li>\n<li>Inventory management: Easily monitor your inventory levels and update your items as necessary. <\/li>\n<li>Customer databases: \n Store important customer information and easily access it for quick service. <\/li>\n\n      <p><\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner8_1.jpg?v=1690191854&width=750\" alt=\"Image\">\n    <\/div>\n  <\/div>"}}},"order":["main","176865c8-ad3d-4045-80b4-a1edb3bdf9bd","63c34c62-4b70-465e-9fac-759ffb5f45e5","9b656bb3-4813-4c2f-bf80-bd3bb1cc5477","f97a2e00-3d0c-4344-a8eb-65307dbeee95","738689c0-982e-4c2e-a362-5bd52c5c6d0b","864713bd-7e47-467c-8a01-7cd9a5974a23","d53cfeed-d032-4c1e-9776-5e0157748faa","190349e7-10e7-473f-b4ab-190feebe6339","aaf5e2a8-5a12-4e48-a91e-aba46c368290","837c313a-5c23-4340-97c5-cee3ed7f6430"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "176865c8-ad3d-4045-80b4-a1edb3bdf9bd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-0": {
+          "type": "subheading",
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Welcome to the world of collecting coins!<\/p>",
+            "heading_size": "medium"
+          }
+        },
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-2": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>As a coin collector, you will find many ways to acquire coins, from attending coin shows and auctions to searching for coins online. But the most exciting part of coin collecting is the hunt itself! It’s the thrill of the chase that makes the hobby so enjoyable.<\/h3><h3> The best way to start collecting coins is to familiarize yourself with the different types of coins available. There are many different types of coins, from ancient coins to modern coins. Knowing the different types of coins and how to find them is essential to becoming a successful coin collector.<\/h3><h3><\/h3><h3>  We specilise in digital solution for jewelry business, weather its high quality rendered images, writing content & creatives for your business or designing your website, we have it coverd all at one place.<\/h3><h3> One of the best ways to begin your coin collection is by collecting rare coins. These coins typically have a higher value than other coins, and can be found at coin shows and auctions or online. You can also find some rare coins in coin auctions and in your local coin shop.<\/h3>"
+          }
+        },
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-0",
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-1",
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-2",
+        "template--19869044310294__176865c8-ad3d-4045-80b4-a1edb3bdf9bd-1689330540a4511cb1-3"
+      ],
+      "custom_css": [
+        "h2 {font-weight: 300; font-family: \"Poppins\";}",
+        "h3 {font-weight: 300; font-family: \"Poppins\"; text-align: start; line-height: 1.5;}",
+        "p strong {font-weight: 400; font-family: \"Poppins\";}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "s"
+      }
+    },
+    "63c34c62-4b70-465e-9fac-759ffb5f45e5": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-2",
+        "subheading": "",
+        "heading": "<p>RENDERING IMAGES & VIDEOS<\/p>",
+        "heading_size": "large",
+        "text_information": "Creating your digital library and organizing your digital assets with beautiful and unique  photorealistic images of jewelry is an important step in showcasing the pieces to potential customers. Capture that sparkle and shine of each piece. \n\nOur rendering technology produces images that accurately represent the size, colour, texture, and finish of each piece. Our software uses advanced techniques to create an image that looks as realistic as possible and can be used in advertising or on product pages. Additionally, the advanced features of our software allow for advanced composition and lighting for images that will stand out and make an impact.\nCAD SERVICES You can get a CAD drawing created by our expert team or choose from our bank of CAD for your requirements.\n\nWe have achieved revolutionary new way to create renderings of your designs, using software that leverages the power of AI and machine learning to generate stunning images.Get your jewelry rendered images created by our expert team or choose from our bank of high quality rendered Images.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "9b656bb3-4813-4c2f-bf80-bd3bb1cc5477": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; padding-top: 25px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner4-horizontal_1_e8f09bd2-2dda-4faf-9cd0-949e5a98866b.jpg?v=1690190049&width=1296\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>WEBSITE DESIGN & BUILD<\/h2>\n      <p>From creating a beautiful website to processing payments and shipping orders, RingMerry is the ultimate ecommerce solution provider for jewelers of all sizes.<\/p>\n    <\/div>"
+      }
+    },
+    "f97a2e00-3d0c-4344-a8eb-65307dbeee95": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row;}",
+        ".content {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        "h2 {font-weight: 300; font-family: \"Poppins\";}",
+        ".content ul {list-style-type: disc; padding-left: 20px;}",
+        ".content li {margin-bottom: 10px;}",
+        ".content p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"content\">\n      <h2>CONTENT & CREATIVES<\/h2> <!-- Add the heading here -->\n      <ul>\n        <li>We will create a logo that is unique, stylish, creative and appealing to your target audience.<\/li>\n        <li>Get noticed by potential customers and increase sales so they become loyal customers who come back over time.<\/li>\n        <li>We're here to help you create a company identity that stands out and inspires trust.<\/li>\n        <li>Get the most out of your packaging by using it as a way to connect your brand with your target audience<\/li>\n        <li>We do custom do printing for your jewelry business! We specialize in doing high quality, affordable, and customizable digital printing services.<\/li>\n      <\/ul>\n      <p><\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner8_1.jpg?v=1690191854&width=750\" alt=\"Image\">\n    <\/div>\n  <\/div>"
+      }
+    },
+    "738689c0-982e-4c2e-a362-5bd52c5c6d0b": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; padding-top: 25px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner6-horizontal_1.jpg?v=1690193572&width=750\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>ONE STOP E-COMMERCE SOLUTIONS<\/h2>\n      <p>Take your business from a \nbrick-and-mortar storefront to the World Wide Web !\nEverything you need in one place!<\/p>\n    <\/div>"
+      }
+    },
+    "864713bd-7e47-467c-8a01-7cd9a5974a23": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__column--column {margin-left: auto;}",
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>WEBSITE DESIGN & BUILD<\/p>",
+        "heading_size": "medium",
+        "text_information": "From creating a beautiful website to processing payments and shipping orders, RingMerry is the ultimate ecommerce solution provider for jewelers of all sizes.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "d53cfeed-d032-4c1e-9776-5e0157748faa": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}",
+        "h3 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>CONTENT & CREATIVES<\/p><ul><li><h3>We will create a logo that is unique, stylish, creative and appealing to your target audience. <\/h3><\/li><li><h3>Get noticed by potential customers and increase sales so they become loyal customers who come back over time. <\/h3><\/li><li><h3>We're here to help you create a company identity that stands out and inspires trust.<\/h3><\/li><li><h3>Get the most out of your packaging by using it as a way to connect your brand with your target audience.<\/h3><\/li><li><h3>We do custom do printing for your jewelry business! We specialize in doing high quality, affordable, and customizable digital printing services.<\/h3><\/li><\/ul>",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0.5,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "190349e7-10e7-473f-b4ab-190feebe6339": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__column--column {margin-left: auto;}",
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>ONE STOP E-COMMERCE SOLUTIONS<\/p>",
+        "heading_size": "medium",
+        "text_information": "Take your business from a \nbrick-and-mortar storefront to the World Wide Web !\nEverything you need in one place!",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0.5,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "aaf5e2a8-5a12-4e48-a91e-aba46c368290": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "h1 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}",
+        "h3 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}",
+        "h2 {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<h1>ORDER MANAGEMENT<\/h1><ul><li><h3>We can step in and help you when your jewellery business needs an effective and efficient way to manage your orders<\/h3><\/li><li><h3>We manage every aspect of your online jewellery business, from order tracking to inventory management. Our support services will save you time and money, allowing you to focus on growing your business instead of managing it.<\/h3><\/li><li><h3>Our team and systems are highly intuitive and customer-friendly<\/h3><\/li><\/ul><h2>We assist in:<\/h2><p><\/p><ul><li><h3><strong> Order tracking:<\/strong> Keep track of all your orders from the time they are placed, through shipping and delivery.<\/h3><\/li><li><h3><strong>Inventory management:<\/strong> Easily monitor your inventory levels and update your items as necessary.<\/h3><\/li><li><h3><strong>Customer databases:<\/strong> Store important customer information and easily access it for quick service.<\/h3><\/li><\/ul><p><\/p>",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0.5,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "837c313a-5c23-4340-97c5-cee3ed7f6430": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row;}",
+        ".content {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        "h2 {font-weight: 300; font-family: \"Poppins\";}",
+        ".content ul {list-style-type: disc; padding-left: 20px;}",
+        ".content li {margin-bottom: 10px;}",
+        ".content p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"content\">\n      <h2>ORDER MANAGEMENT<\/h2> <!-- Add the heading here -->\n      <ul>\n        <li>We can step in and help you when your jewellery business needs an effective and efficient way to manage your orders<\/li>\n        <li>We manage every aspect of your online jewellery business, from order tracking to inventory management. Our support services will save you time and money, allowing you to focus on growing your business instead of managing it.<\/li>\n        <li>Our team and systems are highly intuitive and customer-friendly<\/li>\n       \n      \n      <\/ul>\n<h3>We assist in:<\/h3>\n<li> Order tracking: \n Keep track of all your orders from the time they are placed, through shipping and delivery. <\/li>\n<li>Inventory management: Easily monitor your inventory levels and update your items as necessary. <\/li>\n<li>Customer databases: \n Store important customer information and easily access it for quick service. <\/li>\n\n      <p><\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner8_1.jpg?v=1690191854&width=750\" alt=\"Image\">\n    <\/div>\n  <\/div>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "176865c8-ad3d-4045-80b4-a1edb3bdf9bd",
+    "63c34c62-4b70-465e-9fac-759ffb5f45e5",
+    "9b656bb3-4813-4c2f-bf80-bd3bb1cc5477",
+    "f97a2e00-3d0c-4344-a8eb-65307dbeee95",
+    "738689c0-982e-4c2e-a362-5bd52c5c6d0b",
+    "864713bd-7e47-467c-8a01-7cd9a5974a23",
+    "d53cfeed-d032-4c1e-9776-5e0157748faa",
+    "190349e7-10e7-473f-b4ab-190feebe6339",
+    "aaf5e2a8-5a12-4e48-a91e-aba46c368290",
+    "837c313a-5c23-4340-97c5-cee3ed7f6430"
+  ]
+}
