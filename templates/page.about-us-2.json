@@ -2,14 +2,46 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
 
       ],
       "settings": {
       }
+    },
+    "a2d9fcb1-5832-4c7a-ad1d-bd18f90426d1": {
+      "type": "contact-form",
+      "blocks": {
+        "template--20683601150273__a2d9fcb1-5832-4c7a-ad1d-bd18f90426d1-image-with-text-1": {
+          "type": "image-with-text",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Some heading for this section",
+            "height": "adapt",
+            "text": "<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>",
+            "column_text": "Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.",
+            "name": "Author name",
+            "author_position": "Position of author or any other text",
+            "padding_top": 0,
+            "padding_bottom": 70
+          }
+        }
+      },
+      "block_order": [
+        "template--20683601150273__a2d9fcb1-5832-4c7a-ad1d-bd18f90426d1-image-with-text-1"
+      ],
+      "settings": {
+        "position": "right",
+        "layout": "top",
+        "heading": "<p>Contact form<\/p>",
+        "additional_text": "<p>Additional text for contact form.<\/p>",
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a2d9fcb1-5832-4c7a-ad1d-bd18f90426d1"
   ]
 }
