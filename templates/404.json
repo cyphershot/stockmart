@@ -558,6 +558,69 @@
         "padding_bottom": "m"
       }
     },
+    "53d9558c-02c5-458e-8f84-e066cda50d24": {
+      "type": "product-promo",
+      "blocks": {
+        "template--20536312430913__53d9558c-02c5-458e-8f84-e066cda50d24-column-1": {
+          "type": "column",
+          "settings": {
+            "image_size": "cover",
+            "opacity_overlay": 0.1,
+            "background_color": "#CCCCCC",
+            "product": "",
+            "text_color_scheme": "dark",
+            "subheading": "Subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40B66F",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "text": "Some description",
+            "show_button": false,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": ""
+          }
+        },
+        "template--20536312430913__53d9558c-02c5-458e-8f84-e066cda50d24-column-2": {
+          "type": "column",
+          "settings": {
+            "image_size": "cover",
+            "opacity_overlay": 0.1,
+            "background_color": "#CCCCCC",
+            "product": "",
+            "text_color_scheme": "dark",
+            "subheading": "Subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40B66F",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "text": "Some description",
+            "show_button": false,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312430913__53d9558c-02c5-458e-8f84-e066cda50d24-column-1",
+        "template--20536312430913__53d9558c-02c5-458e-8f84-e066cda50d24-column-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns_per_row": "2",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": true
+      }
+    },
     "24549cfa-e401-49de-aba0-56afbf65f4b7": {
       "type": "collapsible-content",
       "blocks": {
@@ -625,6 +688,7 @@
     "ab0dffc3-1c80-47c4-8088-892f86767e17",
     "37aa3558-388a-42ce-ae9a-976123bff16d",
     "06c6f61a-7c33-4ef2-8b10-47e0ccb714c8",
+    "53d9558c-02c5-458e-8f84-e066cda50d24",
     "24549cfa-e401-49de-aba0-56afbf65f4b7",
     "ef3fc3ff-8ad0-4ace-a991-e1d70248f218"
   ]
