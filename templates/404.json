@@ -415,7 +415,7 @@
     "ee4a14d3-75d1-44c7-b4d9-451398bb1ae1": {
       "type": "popular-products",
       "settings": {
-        "heading": "Some heading",
+        "heading": "",
         "collection_list": [
 
         ],
@@ -482,9 +482,9 @@
         "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-3"
       ],
       "settings": {
-        "heading": "Some header",
+        "heading": "",
         "heading_size": "h3",
-        "text": "Some description.",
+        "text": "",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
         "padding_top": "m",
@@ -494,11 +494,11 @@
     "ef3fc3ff-8ad0-4ace-a991-e1d70248f218": {
       "type": "newsletter",
       "settings": {
-        "align_content": "left",
+        "align_content": "center",
         "full_width": true,
-        "heading": "<p>Heading for subscribe form<\/p>",
-        "newsletter_text": "<p>Additional text for subscribe form.<\/p>",
-        "button_style": "primary",
+        "heading": "<p>Contact Us<\/p>",
+        "newsletter_text": "<p>Get E-mail Updates About our latest special offers<\/p>",
+        "button_style": "secondary",
         "padding_top": "m",
         "padding_bottom": "m"
       }
