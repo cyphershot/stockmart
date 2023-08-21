@@ -1,1 +1,262 @@
-{"sections":{"main":{"type":"main-page","settings":{}},"180a74e8-eed3-41e9-93be-c7f53c913e2a":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; padding-top: 25px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/dr_785a3388-7fa9-4d4d-aaaa-619e7e88218c.png?v=1690202722&width=750\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nDiamond Repair<\/h2>\n      <p>We help you replace or repair your diamond if it's damaged or cracked. We have access to wide range of loose diamonds to provide a solution that will fit your needs and style.<\/p>\n    <\/div>"}},"18600e8a-d954-4b94-ac33-9ece9d457ac3":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"text-container\">\n\n<h2> Diamond Cleaning Scrap<\/h2>\n      \n      <p>When you have a diamond that's not quite what you want it to be. Let us turn that diamond into something beautiful, and we'll pay you fair market value for it.<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner27.jpg?v=1690201591&width=1296\" alt=\"Image\">\n    <\/div>"}},"0dab4d14-d914-4bd9-ac2a-75e5a7456836":{"type":"featured-products","disabled":true,"settings":{"color_scheme":"background-1","subheading":"Subheading","heading":"","heading_size":"h2","show_info":true,"info_subheading":"Subheading","info_heading":"Heading","info_heading_size":"h2","text":"Some description","show_button":false,"button_style":"primary","button_label":"Explore Our Store","button_link":"","product_list":[],"columns_mobile":"1","image_ratio":"square","image_fit":"cover","show_secondary_image":false,"show_vendor":true,"show_desc":false,"margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"m"}},"19be4a42-b2c1-4872-a794-96d200490928":{"type":"image-banner","disabled":true,"custom_css":[".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}","h2 {font-weight: 300; font-family: \"Poppins\";}"],"settings":{"full_width":true,"color_scheme":"background-2","subheading":"","heading":"<h2>Diamond Repair<\/h2>","heading_size":"large","text_information":"We help you replace or repair your diamond if it's damaged or cracked. We have access to wide range of loose diamonds to provide a solution that will fit your needs and style.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/dr.png","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"602d9b36-0a02-4351-bafc-29d2f738ba9c":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__column--column {margin-left: auto;}",".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>Diamond Cleaning Scrap<\/p>","heading_size":"medium","text_information":"When you have a diamond that's not quite what you want it to be. Let us turn that diamond into something beautiful, and we'll pay you fair market value for it.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner27.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"4669b29d-4951-4264-8bba-9a02425dc3d2":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner24.jpg?v=1690201917&width=1296\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nMetal Cleaning Scrap<\/h2>\n      <p>We've got a great offer for you. We pay you a percentage of market value for your precious metal scrap.<\/p>\n    <\/div>"}},"eea1ad22-5eb0-49bc-bedb-5a526a33e7ee":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}","@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"text-container\">\n\n<h2> Laser Engraving<\/h2>\n      \n      <p>We offer a wide range of lazer engraving services to help you create beautiful jewelry pieces with the perfect personal touch. Our lazer engraving services can be used to add special messages, logos, initials, and even photographs to any piece of jewellery. We are able to work with any type or size of jewellery, including watches, necklaces, and rings.<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner26.jpg?v=1690202327&width=1296\" alt=\"Image\">\n    <\/div>"}},"8e1c5d61-b2f3-4b01-9353-62ac8862619c":{"type":"image-banner","disabled":true,"custom_css":["p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-2","subheading":"","heading":"<p>Metal Cleaning Scrap<\/p>","heading_size":"medium","text_information":"We've got a great offer for you. We pay you a percentage of market value for your precious metal scrap.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner24.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"23ed6440-5813-42f2-80b7-89bfa4e82493":{"type":"image-banner","disabled":true,"custom_css":[".image-banner__column--column {margin-left: auto;}",".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>Laser Engraving<\/p>","heading_size":"medium","text_information":"We offer a wide range of lazer engraving services to help you create beautiful jewelry pieces with the perfect personal touch. Our lazer engraving services can be used to add special messages, logos, initials, and even photographs to any piece of jewellery. We are able to work with any type or size of jewellery, including watches, necklaces, and rings.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner26.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"abe8ff0a-a88a-41fd-bc1e-a2fd93be156f":{"type":"image-banner","disabled":true,"custom_css":[".banner__overlay {background-color: rgba(var(--color-overlay), 0);}","p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"],"settings":{"full_width":true,"color_scheme":"background-1","subheading":"","heading":"<p>Stone Setting<\/p>","heading_size":"medium","text_information":"Our expert stone setters are the best in the business. They set thousands of our stones a day, and they always achieve excellence using the most advanced equipment and techniques.","text_align":"left","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","image":"shopify:\/\/shop_images\/banner25.jpg","image_ratio":"landscape","opacity_overlay":0,"margin_top":"no-indent","margin_bottom":"no-indent"}},"35d8dc73-03ba-4310-ac10-dcf87c0260aa":{"type":"custom-liquid","custom_css":[".container {display: flex; flex-direction: row;}",".image-container {flex: 1;}",".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",".text-container p {font-size: 16px; line-height: 1.8;}","@media screen and (max-width: 768px) {.container {flex-direction: column; }}"],"settings":{"custom_liquid":"<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner25.jpg?v=1690202588&width=1296\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nStone Setting<\/h2>\n      <p>Our expert stone setters are the best in the business. They set thousands of our stones a day, and they always achieve excellence using the most advanced equipment and techniques.<\/p>\n    <\/div>"}}},"order":["main","180a74e8-eed3-41e9-93be-c7f53c913e2a","18600e8a-d954-4b94-ac33-9ece9d457ac3","0dab4d14-d914-4bd9-ac2a-75e5a7456836","19be4a42-b2c1-4872-a794-96d200490928","602d9b36-0a02-4351-bafc-29d2f738ba9c","4669b29d-4951-4264-8bba-9a02425dc3d2","eea1ad22-5eb0-49bc-bedb-5a526a33e7ee","8e1c5d61-b2f3-4b01-9353-62ac8862619c","23ed6440-5813-42f2-80b7-89bfa4e82493","abe8ff0a-a88a-41fd-bc1e-a2fd93be156f","35d8dc73-03ba-4310-ac10-dcf87c0260aa"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "180a74e8-eed3-41e9-93be-c7f53c913e2a": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; padding-top: 25px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/dr_785a3388-7fa9-4d4d-aaaa-619e7e88218c.png?v=1690202722&width=750\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nCommemorative Coins<\/h2>\n      <p>Minting commemorative coins is a popular way to celebrate and commemorate important dates, milestones, and events. Whether it’s a wedding anniversary, birth of a child, or a momentous achievement, commemorative coins offer a unique and lasting way to remember a special occasion.\nMinting commemorative coins is a centuries-old tradition. In the United States, commemorative coins have been minted since the late 1800s and are hugely popular among coin collectors and numismatists. Commemorative coins can be produced in a variety of metals, sizes and designs, with each coin offering a unique, personalized touch.\nWhen choosing to mint commemorative coins for a specific date, it’s important to put thought into the design. For example, the coin’s shape, edge, and color can all be customized to reflect the special occasion. Commemorative coins are issued to celebrate a special event or issue, and each one features a unique design to mark the occasion. Many of these coins make great collectibles, so why not start your own collection today? It's a great way to preserve a special moment in time!<\/p>\n    <\/div>"
+      }
+    },
+    "18600e8a-d954-4b94-ac33-9ece9d457ac3": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"text-container\">\n\n<h2> Diamond Cleaning Scrap<\/h2>\n      \n      <p>When you have a diamond that's not quite what you want it to be. Let us turn that diamond into something beautiful, and we'll pay you fair market value for it.<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"\/\/memoryminted.com\/cdn\/shop\/files\/Home_LR_1.jpg?v=1692336082&amp;width=1296\" alt=\"Image\">\n    <\/div>"
+      }
+    },
+    "0dab4d14-d914-4bd9-ac2a-75e5a7456836": {
+      "type": "featured-products",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "Subheading",
+        "heading": "",
+        "heading_size": "h2",
+        "show_info": true,
+        "info_subheading": "Subheading",
+        "info_heading": "Heading",
+        "info_heading_size": "h2",
+        "text": "Some description",
+        "show_button": false,
+        "button_style": "primary",
+        "button_label": "Explore Our Store",
+        "button_link": "",
+        "product_list": [
+
+        ],
+        "columns_mobile": "1",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_desc": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "19be4a42-b2c1-4872-a794-96d200490928": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}",
+        "h2 {font-weight: 300; font-family: \"Poppins\";}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-2",
+        "subheading": "",
+        "heading": "<h2>Diamond Repair<\/h2>",
+        "heading_size": "large",
+        "text_information": "We help you replace or repair your diamond if it's damaged or cracked. We have access to wide range of loose diamonds to provide a solution that will fit your needs and style.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "602d9b36-0a02-4351-bafc-29d2f738ba9c": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__column--column {margin-left: auto;}",
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>Diamond Cleaning Scrap<\/p>",
+        "heading_size": "medium",
+        "text_information": "When you have a diamond that's not quite what you want it to be. Let us turn that diamond into something beautiful, and we'll pay you fair market value for it.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "4669b29d-4951-4264-8bba-9a02425dc3d2": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner24.jpg?v=1690201917&width=1296\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nMetal Cleaning Scrap<\/h2>\n      <p>We've got a great offer for you. We pay you a percentage of market value for your precious metal scrap.<\/p>\n    <\/div>"
+      }
+    },
+    "eea1ad22-5eb0-49bc-bedb-5a526a33e7ee": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; align-items: flex-start; \/* Align items to the top *\/}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column-reverse; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"text-container\">\n\n<h2> Laser Engraving<\/h2>\n      \n      <p>We offer a wide range of lazer engraving services to help you create beautiful jewelry pieces with the perfect personal touch. Our lazer engraving services can be used to add special messages, logos, initials, and even photographs to any piece of jewellery. We are able to work with any type or size of jewellery, including watches, necklaces, and rings.<\/p>\n    <\/div>\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner26.jpg?v=1690202327&width=1296\" alt=\"Image\">\n    <\/div>"
+      }
+    },
+    "8e1c5d61-b2f3-4b01-9353-62ac8862619c": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-2",
+        "subheading": "",
+        "heading": "<p>Metal Cleaning Scrap<\/p>",
+        "heading_size": "medium",
+        "text_information": "We've got a great offer for you. We pay you a percentage of market value for your precious metal scrap.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "23ed6440-5813-42f2-80b7-89bfa4e82493": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".image-banner__column--column {margin-left: auto;}",
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>Laser Engraving<\/p>",
+        "heading_size": "medium",
+        "text_information": "We offer a wide range of lazer engraving services to help you create beautiful jewelry pieces with the perfect personal touch. Our lazer engraving services can be used to add special messages, logos, initials, and even photographs to any piece of jewellery. We are able to work with any type or size of jewellery, including watches, necklaces, and rings.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "abe8ff0a-a88a-41fd-bc1e-a2fd93be156f": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        ".banner__overlay {background-color: rgba(var(--color-overlay), 0);}",
+        "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>Stone Setting<\/p>",
+        "heading_size": "medium",
+        "text_information": "Our expert stone setters are the best in the business. They set thousands of our stones a day, and they always achieve excellence using the most advanced equipment and techniques.",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "35d8dc73-03ba-4310-ac10-dcf87c0260aa": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".container {display: flex; flex-direction: row;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/banner25.jpg?v=1690202588&width=1296\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nStone Setting<\/h2>\n      <p>Our expert stone setters are the best in the business. They set thousands of our stones a day, and they always achieve excellence using the most advanced equipment and techniques.<\/p>\n    <\/div>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "180a74e8-eed3-41e9-93be-c7f53c913e2a",
+    "18600e8a-d954-4b94-ac33-9ece9d457ac3",
+    "0dab4d14-d914-4bd9-ac2a-75e5a7456836",
+    "19be4a42-b2c1-4872-a794-96d200490928",
+    "602d9b36-0a02-4351-bafc-29d2f738ba9c",
+    "4669b29d-4951-4264-8bba-9a02425dc3d2",
+    "eea1ad22-5eb0-49bc-bedb-5a526a33e7ee",
+    "8e1c5d61-b2f3-4b01-9353-62ac8862619c",
+    "23ed6440-5813-42f2-80b7-89bfa4e82493",
+    "abe8ff0a-a88a-41fd-bc1e-a2fd93be156f",
+    "35d8dc73-03ba-4310-ac10-dcf87c0260aa"
+  ]
+}
