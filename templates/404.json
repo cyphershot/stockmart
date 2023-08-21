@@ -4,7 +4,7 @@
       "type": "image-banner",
       "settings": {
         "full_width": true,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "subheading": "",
         "heading": "",
         "heading_size": "medium",
@@ -299,7 +299,7 @@
         "template--20536312430913__c0a88ebb-ded8-4a79-b692-0006d543d73a-column-4"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns": 4,
         "margin_top": "xs",
         "margin_bottom": "xs",
