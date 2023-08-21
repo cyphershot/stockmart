@@ -337,6 +337,58 @@
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
       }
+    },
+    "24549cfa-e401-49de-aba0-56afbf65f4b7": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-1": {
+          "type": "accordion",
+          "settings": {
+            "question": "Some title",
+            "answer": "<p>Some description<\/p>"
+          }
+        },
+        "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-2": {
+          "type": "accordion",
+          "settings": {
+            "question": "Some title",
+            "answer": "<p>Some description<\/p>"
+          }
+        },
+        "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-3": {
+          "type": "accordion",
+          "settings": {
+            "question": "Some title",
+            "answer": "<p>Some description<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-1",
+        "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-2",
+        "template--20536312430913__24549cfa-e401-49de-aba0-56afbf65f4b7-accordion-3"
+      ],
+      "settings": {
+        "heading": "Some header",
+        "heading_size": "h3",
+        "text": "Some description.",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "ef3fc3ff-8ad0-4ace-a991-e1d70248f218": {
+      "type": "newsletter",
+      "settings": {
+        "align_content": "left",
+        "full_width": true,
+        "heading": "<p>Heading for subscribe form<\/p>",
+        "newsletter_text": "<p>Additional text for subscribe form.<\/p>",
+        "button_style": "primary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
     }
   },
   "order": [
@@ -346,6 +398,8 @@
     "c0a88ebb-ded8-4a79-b692-0006d543d73a",
     "54428df7-8a99-4adf-b430-2337d47407f7",
     "d0728a32-ae95-4f98-86fa-2bbcfebf1cb2",
-    "37aa3558-388a-42ce-ae9a-976123bff16d"
+    "37aa3558-388a-42ce-ae9a-976123bff16d",
+    "24549cfa-e401-49de-aba0-56afbf65f4b7",
+    "ef3fc3ff-8ad0-4ace-a991-e1d70248f218"
   ]
 }
