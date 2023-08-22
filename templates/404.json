@@ -408,8 +408,8 @@
         "border_top": false,
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
-        "padding_top": "m",
-        "padding_bottom": "m"
+        "padding_top": "xs",
+        "padding_bottom": "xs"
       }
     },
     "0550738d-5453-4a01-9e19-4a2501aec515": {
@@ -448,7 +448,7 @@
         "image_ratio": "square",
         "image_fit": "cover",
         "padding_top": "xs",
-        "padding_bottom": "m"
+        "padding_bottom": "xs"
       }
     },
     "2cae2c61-50e7-4947-8af5-3a8a85c1d45e": {
