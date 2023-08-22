@@ -64,7 +64,7 @@
       "settings": {
         "full_width": true,
         "color_scheme": "background-1",
-        "subheading": "Subheading",
+        "subheading": "",
         "heading": "<p>Some header for your collection<\/p>",
         "heading_size": "medium",
         "text_information": "Some descriptive text for your collection. For better alignment, it is better to use text in several lines.",
