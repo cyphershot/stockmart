@@ -447,7 +447,7 @@
         "show_vendor": true,
         "image_ratio": "square",
         "image_fit": "cover",
-        "padding_top": "m",
+        "padding_top": "xs",
         "padding_bottom": "m"
       }
     },
