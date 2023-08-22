@@ -22,6 +22,58 @@
         "margin_bottom": "no-indent"
       }
     },
+    "f5d3a639-4796-440f-92c4-a5b407fd4700": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20536312430913__f5d3a639-4796-440f-92c4-a5b407fd4700-slide-1": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "medium",
+            "description": "",
+            "show_button": false,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-08-21_at_11.40.25_PM.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "template--20536312430913__f5d3a639-4796-440f-92c4-a5b407fd4700-slide-2": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312430913__f5d3a639-4796-440f-92c4-a5b407fd4700-slide-1",
+        "template--20536312430913__f5d3a639-4796-440f-92c4-a5b407fd4700-slide-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "height": "16\/9",
+        "enable_autoplay": false,
+        "slide_duration": 5,
+        "controls_color_scheme": "light",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
     "main": {
       "type": "main-404",
       "disabled": true,
@@ -61,6 +113,7 @@
     },
     "775b1adc-2784-4b96-8930-eb6dffbcaaea": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "color_scheme": "background-1",
@@ -700,6 +753,7 @@
   },
   "order": [
     "68090c4d-25bd-49f7-bb0b-bc74b8831211",
+    "f5d3a639-4796-440f-92c4-a5b407fd4700",
     "main",
     "4fb56167-5f28-4749-9987-bb1616b7fcff",
     "775b1adc-2784-4b96-8930-eb6dffbcaaea",
