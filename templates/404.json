@@ -474,7 +474,7 @@
       "type": "featured-products",
       "settings": {
         "color_scheme": "background-1",
-        "subheading": "Subheading",
+        "subheading": "",
         "heading": "",
         "heading_size": "h2",
         "show_info": true,
