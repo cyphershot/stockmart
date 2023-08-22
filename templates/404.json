@@ -66,7 +66,7 @@
         "full_width": true,
         "height": "adapt",
         "enable_autoplay": false,
-        "slide_duration": 5,
+        "slide_duration": 4,
         "controls_color_scheme": "light",
         "padding_top": "no-indent",
         "padding_bottom": "no-indent",
