@@ -49,6 +49,7 @@
   justify-content: center;
   gap: 0.8rem;
   z-index: 3;
+  visibility: hidden;
 }
 @media screen and (min-width: 990px) {
   .slideshow__navigation {
