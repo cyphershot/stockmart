@@ -104,6 +104,22 @@
             "image": "shopify:\/\/shop_images\/11.jpg",
             "overlay_opacity": 0
           }
+        },
+        "73474885-b20b-4597-a6ab-a7324e77332f": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "",
+            "heading_size": "medium",
+            "description": "",
+            "show_button": false,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "image": "shopify:\/\/shop_images\/7_1.jpg",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -111,7 +127,8 @@
         "template--20536312430913__f5d3a639-4796-440f-92c4-a5b407fd4700-slide-2",
         "0925de8c-5d85-45f8-8933-b135587660d6",
         "98efc783-6591-4888-94e6-c685f1661459",
-        "863d6cb0-a30a-48a9-b987-213bf1595352"
+        "863d6cb0-a30a-48a9-b987-213bf1595352",
+        "73474885-b20b-4597-a6ab-a7324e77332f"
       ],
       "settings": {
         "color_scheme": "background-1",
