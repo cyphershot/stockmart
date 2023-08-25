@@ -63,7 +63,7 @@
         "small_menu": "",
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "none",
         "enable_contact_block": false,
         "contact_text": "Description",
         "contact_text_accent": "<p>Contact info<\/p>",
