@@ -185,7 +185,7 @@
         "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/dr_785a3388-7fa9-4d4d-aaaa-619e7e88218c.png?v=1690202722&width=750\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nGraded Coins<\/h2>\n      <p>Coins are graded based on their condition and authenticity. Our professional coin grading service provides a detailed description of coins combined with photos to help you determine if they're worth keeping.<\/p>\n    <\/div>"
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"\/\/memoryminted.com\/cdn\/shop\/files\/Home_LR_1.jpg?v=1692336082&amp;width=1296\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nGraded Coins<\/h2>\n      <p>Coins are graded based on their condition and authenticity. Our professional coin grading service provides a detailed description of coins combined with photos to help you determine if they're worth keeping.<\/p>\n    <\/div>"
       }
     }
   },
