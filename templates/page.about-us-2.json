@@ -15,13 +15,14 @@
         "template--20683601150273__a2d9fcb1-5832-4c7a-ad1d-bd18f90426d1-image-with-text-1": {
           "type": "image-with-text",
           "settings": {
-            "subheading": "Subheading",
-            "heading": "Some heading for this section",
+            "subheading": "",
+            "heading": "",
+            "image": "shopify:\/\/shop_images\/13.jpg",
             "height": "adapt",
-            "text": "<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>",
-            "column_text": "Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.",
-            "name": "Author name",
-            "author_position": "Position of author or any other text",
+            "text": "<p><strong>Welcome to Memory Minted! <\/strong>Your premier destination for personalized gold, silver, and precious metal coins. From special occasions to trade or healthcare needs, explore our diverse collection. Invest in memories and craftsmanship. Contact us for inquiries, orders, and collaborations.<\/p>",
+            "column_text": "",
+            "name": "",
+            "author_position": "",
             "padding_top": 0,
             "padding_bottom": 70
           }
