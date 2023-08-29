@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -10,6 +11,7 @@
     },
     "0dab4d14-d914-4bd9-ac2a-75e5a7456836": {
       "type": "featured-products",
+      "disabled": true,
       "custom_css": [
         "h2 {font-weight: 300; font-family: \"Poppins\";}",
         "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"
@@ -54,6 +56,7 @@
     },
     "aa7fd9ec-5442-409c-b86c-96f2620b9fe0": {
       "type": "featured-products",
+      "disabled": true,
       "custom_css": [
         "h2 {font-weight: 300; font-family: \"Poppins\";}",
         "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"
@@ -125,6 +128,7 @@
     },
     "032a7790-750d-4d64-928c-6464aae6e501": {
       "type": "featured-products",
+      "disabled": true,
       "custom_css": [
         "h2 {font-weight: 300; font-family: \"Poppins\";}",
         "p {font-weight: 300; font-family: \"Poppins\"; line-height: 1.5;}"
@@ -168,6 +172,21 @@
         "padding_top": "xs",
         "padding_bottom": "m"
       }
+    },
+    "85166099-8224-4de5-bafe-b9b2f2c6c02e": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".container {display: flex; flex-direction: row; padding-top: 25px;}",
+        ".text-container {flex: 1; padding: 20px; font-weight: 300; font-family: \"Poppins\", Arial, sans-serif;}",
+        ".text-container h2 {font-size: 24px; font-family: \"Poppins\", Arial, sans-serif; font-weight: 300;}",
+        ".text-container p {font-size: 16px; line-height: 1.8;}",
+        ".image-container {flex: 1;}",
+        ".image-container img {width: 100%; height: auto; display: block; border-radius: 10px;}",
+        "@media screen and (max-width: 768px) {.container {flex-direction: column; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n    <div class=\"image-container\">\n      <img src=\"https:\/\/ringmerry.com\/cdn\/shop\/files\/dr_785a3388-7fa9-4d4d-aaaa-619e7e88218c.png?v=1690202722&width=750\" alt=\"Image\">\n    <\/div>\n    <div class=\"text-container\">\n      <h2>\nGraded Coins<\/h2>\n      <p>Coins are graded based on their condition and authenticity. Our professional coin grading service provides a detailed description of coins combined with photos to help you determine if they're worth keeping.<\/p>\n    <\/div>"
+      }
     }
   },
   "order": [
@@ -175,6 +194,7 @@
     "0dab4d14-d914-4bd9-ac2a-75e5a7456836",
     "aa7fd9ec-5442-409c-b86c-96f2620b9fe0",
     "970c351c-3c06-4ef4-97d4-5e4d0ee5afab",
-    "032a7790-750d-4d64-928c-6464aae6e501"
+    "032a7790-750d-4d64-928c-6464aae6e501",
+    "85166099-8224-4de5-bafe-b9b2f2c6c02e"
   ]
 }
