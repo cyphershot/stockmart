@@ -134,7 +134,7 @@
             "button_label": "Explore Our Store",
             "button_link": "",
             "image": "shopify:\/\/shop_images\/2_2.jpg",
-            "overlay_opacity": 0.5
+            "overlay_opacity": 0
           }
         }
       },
