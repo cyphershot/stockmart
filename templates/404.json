@@ -706,6 +706,27 @@
         "padding_bottom": "m"
       }
     },
+    "2cae2c61-50e7-4947-8af5-3a8a85c1d45e": {
+      "type": "image-banner",
+      "settings": {
+        "full_width": false,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<p>Welcome to the world of collecting coins!<\/p>",
+        "heading_size": "large",
+        "text_information": "As a coin collector, you will find many ways to acquire coins, from attending coin shows and auctions to searching for coins online. But the most exciting part of coin collecting is the hunt itself! It’s the thrill of the chase that makes the hobby so enjoyable.\nThe best way to start collecting coins is to familiarize yourself with the different types of coins available. There are many different types of coins, from ancient coins to modern coins. Knowing the different types of coins and how to find them is essential to becoming a successful coin collector.",
+        "text_align": "left",
+        "show_view_all": true,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/white-blank-background-texture-d.jpg",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0.6,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
     "2633c4ca-bd3f-401d-8a45-db4718ba39cf": {
       "type": "multicolumn",
       "blocks": {
@@ -801,27 +822,6 @@
         "image_fit": "cover",
         "padding_top": "xs",
         "padding_bottom": "xs"
-      }
-    },
-    "2cae2c61-50e7-4947-8af5-3a8a85c1d45e": {
-      "type": "image-banner",
-      "settings": {
-        "full_width": false,
-        "color_scheme": "background-1",
-        "subheading": "",
-        "heading": "<p>Welcome to the world of collecting coins!<\/p>",
-        "heading_size": "large",
-        "text_information": "As a coin collector, you will find many ways to acquire coins, from attending coin shows and auctions to searching for coins online. But the most exciting part of coin collecting is the hunt itself! It’s the thrill of the chase that makes the hobby so enjoyable.\nThe best way to start collecting coins is to familiarize yourself with the different types of coins available. There are many different types of coins, from ancient coins to modern coins. Knowing the different types of coins and how to find them is essential to becoming a successful coin collector.",
-        "text_align": "left",
-        "show_view_all": true,
-        "button_label": "Shop now",
-        "button_style": "primary",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/white-blank-background-texture-d.jpg",
-        "image_ratio": "landscape",
-        "opacity_overlay": 0.6,
-        "margin_top": "no-indent",
-        "margin_bottom": "no-indent"
       }
     },
     "ab0dffc3-1c80-47c4-8088-892f86767e17": {
@@ -1061,10 +1061,10 @@
     "4ea1f864-f657-497d-b3a0-fa9d96af9545",
     "c0a88ebb-ded8-4a79-b692-0006d543d73a",
     "54428df7-8a99-4adf-b430-2337d47407f7",
+    "2cae2c61-50e7-4947-8af5-3a8a85c1d45e",
     "2633c4ca-bd3f-401d-8a45-db4718ba39cf",
     "0550738d-5453-4a01-9e19-4a2501aec515",
     "ee4a14d3-75d1-44c7-b4d9-451398bb1ae1",
-    "2cae2c61-50e7-4947-8af5-3a8a85c1d45e",
     "ab0dffc3-1c80-47c4-8088-892f86767e17",
     "37aa3558-388a-42ce-ae9a-976123bff16d",
     "06c6f61a-7c33-4ef2-8b10-47e0ccb714c8",
