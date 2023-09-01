@@ -16,6 +16,7 @@
       "blocks": {
         "fe59c0b0-79b7-4204-83c3-364360162097": {
           "type": "mega_menu",
+          "disabled": true,
           "settings": {
             "mega_menu_trigger": "",
             "heading": "Heading for links",
@@ -97,6 +98,7 @@
     },
     "dd5c47f5-8d20-4dd1-9394-3c664d26756d": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": ""
       }
