@@ -806,7 +806,7 @@
     "2cae2c61-50e7-4947-8af5-3a8a85c1d45e": {
       "type": "image-banner",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "background-1",
         "subheading": "",
         "heading": "<p>Welcome to the world of collecting coins!<\/p>",
