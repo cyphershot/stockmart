@@ -576,7 +576,7 @@
         "image_type": "image",
         "icon_background": "background-2",
         "image_width": "medium",
-        "object_fit": "contain",
+        "object_fit": "cover",
         "swipe_on_mobile": true,
         "border_top": false,
         "margin_top": "no-indent",
