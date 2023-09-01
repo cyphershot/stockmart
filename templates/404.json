@@ -708,6 +708,9 @@
     },
     "2cae2c61-50e7-4947-8af5-3a8a85c1d45e": {
       "type": "image-banner",
+      "custom_css": [
+        ".banner{border-radius:30px}"
+      ],
       "settings": {
         "full_width": false,
         "color_scheme": "background-1",
