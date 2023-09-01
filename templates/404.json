@@ -398,7 +398,7 @@
         "template--20536312430913__94615352-dbb7-40c7-9ad4-0d3902ac5f5f-column-4"
       ],
       "custom_css": [
-
+        ".cards-grid__item {border-radius: 25px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px);}"
       ],
       "settings": {
         "color_scheme": "background-1",
