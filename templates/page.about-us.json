@@ -655,27 +655,6 @@
         "padding_top": "m",
         "padding_bottom": "m"
       }
-    },
-    "611d93db-0172-421b-b895-3c90d8a03b20": {
-      "type": "image-banner",
-      "settings": {
-        "full_width": true,
-        "color_scheme": "background-1",
-        "subheading": "Subheading",
-        "heading": "<p>Some header for your collection<\/p>",
-        "heading_size": "medium",
-        "text_information": "Some descriptive text for your collection. For better alignment, it is better to use text in several lines.",
-        "text_align": "left",
-        "show_view_all": true,
-        "button_label": "Shop now",
-        "button_style": "primary",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/3_2.jpg",
-        "image_ratio": "adapt",
-        "opacity_overlay": 0,
-        "margin_top": "no-indent",
-        "margin_bottom": "no-indent"
-      }
     }
   },
   "order": [
@@ -698,7 +677,6 @@
     "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4",
     "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f",
     "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c",
-    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f",
-    "611d93db-0172-421b-b895-3c90d8a03b20"
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"
   ]
 }
