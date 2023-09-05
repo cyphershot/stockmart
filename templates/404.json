@@ -145,6 +145,7 @@
         },
         "ec7929be-e276-403d-b7bc-acc102a31ab9": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "color_scheme": "background-3",
             "subheading": "",
