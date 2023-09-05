@@ -112,6 +112,7 @@
         },
         "73474885-b20b-4597-a6ab-a7324e77332f": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "color_scheme": "background-3",
             "subheading": "",
