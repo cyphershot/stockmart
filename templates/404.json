@@ -1059,27 +1059,6 @@
         "padding_top": "m",
         "padding_bottom": "m"
       }
-    },
-    "0224a51b-d708-4d06-a040-1d0d6888d9db": {
-      "type": "image-banner",
-      "settings": {
-        "full_width": true,
-        "color_scheme": "background-1",
-        "subheading": "Subheading",
-        "heading": "<p>Some header for your collection<\/p>",
-        "heading_size": "medium",
-        "text_information": "Some descriptive text for your collection. For better alignment, it is better to use text in several lines.",
-        "text_align": "left",
-        "show_view_all": true,
-        "button_label": "Shop now",
-        "button_style": "primary",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-08-21_at_11.40.25_PM.jpg",
-        "image_ratio": "adapt",
-        "opacity_overlay": 0,
-        "margin_top": "no-indent",
-        "margin_bottom": "no-indent"
-      }
     }
   },
   "order": [
@@ -1101,7 +1080,6 @@
     "06c6f61a-7c33-4ef2-8b10-47e0ccb714c8",
     "53d9558c-02c5-458e-8f84-e066cda50d24",
     "24549cfa-e401-49de-aba0-56afbf65f4b7",
-    "ef3fc3ff-8ad0-4ace-a991-e1d70248f218",
-    "0224a51b-d708-4d06-a040-1d0d6888d9db"
+    "ef3fc3ff-8ad0-4ace-a991-e1d70248f218"
   ]
 }
