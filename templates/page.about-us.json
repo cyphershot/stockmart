@@ -3,7 +3,7 @@
     "05ce15c9-6115-4725-ba28-d071ffbd1de2": {
       "type": "image-banner",
       "custom_css": [
-
+        "h1{font-size:36px}"
       ],
       "settings": {
         "full_width": true,
