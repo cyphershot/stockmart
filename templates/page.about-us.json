@@ -36,14 +36,14 @@
         },
         "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-heading-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "<p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>",
+            "heading": "<h3>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/h3>",
             "heading_size": "large"
           }
         },
         "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>"
           }
