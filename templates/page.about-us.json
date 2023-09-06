@@ -1,5 +1,26 @@
 {
   "sections": {
+    "05ce15c9-6115-4725-ba28-d071ffbd1de2": {
+      "type": "image-banner",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<h1><strong>Discover The Memorymint<\/strong><\/h1>",
+        "heading_size": "large",
+        "text_information": "Embark on a truly one-of-a-kind memory-making journey! Join us for an exclusive experience where you can explore, shop, and enrich your knowledge, all in one captivating adventure.",
+        "text_align": "center",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/about-us.jpg",
+        "image_ratio": "landscape",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
     "ce52a5fe-3393-40b8-af41-f8247234668e": {
       "type": "image-banner",
       "disabled": true,
@@ -671,29 +692,10 @@
         "padding_top": "m",
         "padding_bottom": "m"
       }
-    },
-    "05ce15c9-6115-4725-ba28-d071ffbd1de2": {
-      "type": "image-banner",
-      "settings": {
-        "full_width": true,
-        "color_scheme": "background-1",
-        "subheading": "",
-        "heading": "<h1><strong>Discover The Memorymint<\/strong><\/h1>",
-        "heading_size": "large",
-        "text_information": "",
-        "text_align": "center",
-        "show_view_all": false,
-        "button_label": "Shop now",
-        "button_style": "primary",
-        "button_link": "",
-        "image_ratio": "adapt",
-        "opacity_overlay": 0,
-        "margin_top": "no-indent",
-        "margin_bottom": "no-indent"
-      }
     }
   },
   "order": [
+    "05ce15c9-6115-4725-ba28-d071ffbd1de2",
     "ce52a5fe-3393-40b8-af41-f8247234668e",
     "main",
     "25de6fc8-99a5-477f-88f3-77423cb5bf88",
@@ -713,7 +715,6 @@
     "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4",
     "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f",
     "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c",
-    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f",
-    "05ce15c9-6115-4725-ba28-d071ffbd1de2"
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"
   ]
 }
