@@ -69,7 +69,7 @@
         "full_width": true,
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
-        "padding_top": "xs",
+        "padding_top": "m",
         "padding_bottom": "xs"
       }
     },
