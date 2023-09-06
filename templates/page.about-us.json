@@ -375,6 +375,128 @@
         "margin_bottom": "no-indent"
       }
     },
+    "78d7ef31-32bf-4ff8-9835-3031d6612772": {
+      "type": "cards-grid",
+      "blocks": {
+        "template--20536312594753__78d7ef31-32bf-4ff8-9835-3031d6612772-column-1": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 3,
+            "row_start": "1",
+            "row_end": "3",
+            "min_height": "small",
+            "padding": "small",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "background-2",
+            "background_color": "#FFFFFF",
+            "background_effect": "none",
+            "effect_opacity": 0.4,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "dark",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40B66F",
+            "heading": "Coin Your Memories",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "Follow the journey of a person who has an extraordinary ability to capture memories. Armed with a magical coin, they travel through time and space, collecting precious moments from people's lives. We'll watch as they interact with individuals from all walks of life, capturing their most cherished memories on the commemorative coins. From weddings and birthdays to graduations and family reunions, each coin becomes a tangible symbol of a special moment in time. The  sentimental value of these coins as keepsakes that hold significant meaning for individuals and their loved ones. With memory minted commemorative coins, you can immortalize your most treasured memories forever.",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        },
+        "template--20536312594753__78d7ef31-32bf-4ff8-9835-3031d6612772-column-2": {
+          "type": "column",
+          "settings": {
+            "column_start": 3,
+            "column_end": 5,
+            "row_start": "1",
+            "row_end": "3",
+            "min_height": "small",
+            "padding": "small",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "background-2",
+            "background_color": "#FFFFFF",
+            "background_effect": "none",
+            "effect_opacity": 0.4,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "dark",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40B66F",
+            "heading": "Minting Memories",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "Memory minted commemorative coins, we introduce a time-traveling coin maker from the Victorian era who lands in our modern world. With his old-world charm and funny misinterpretations of today's tech-savvy life, he stumbles upon key moments in people lives - first steps, graduations, proposals - and instantly mints a coin for each one. The joy on people faces when they receive these hand-crafted tokens is priceless. These coins aren't just metal; they're minted memories that will last forever. So why not preserve your special moments with a touch of class? Choose Memory Minted",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312594753__78d7ef31-32bf-4ff8-9835-3031d6612772-column-1",
+        "template--20536312594753__78d7ef31-32bf-4ff8-9835-3031d6612772-column-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_card": "background-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h3",
+        "post_layout": "grid",
+        "image_width": "small",
+        "image_fit": "contain",
+        "icon_background": "background-2",
+        "blog": "news",
+        "post_limit": 2,
+        "post_limit_mobile": 2,
+        "show_image": true,
+        "show_tags": true,
+        "show_date": false,
+        "show_author": false,
+        "show_excerpt": true,
+        "show_view_all": false,
+        "show_view_all_mobile": true,
+        "button_label": "Button label",
+        "button_style": "secondary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
     "bafbf507-26c8-4650-b686-0b8c9fde4e0c": {
       "type": "image-banner",
       "disabled": true,
@@ -464,35 +586,6 @@
         "padding_top": "m",
         "padding_bottom": "m"
       }
-    },
-    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "color_scheme": "background-1",
-        "color_scheme_card": "background-2",
-        "subheading": "",
-        "heading": "Latest Articles",
-        "heading_size": "h3",
-        "post_layout": "grid",
-        "image_width": "small",
-        "image_fit": "contain",
-        "icon_background": "background-2",
-        "blog": "news",
-        "post_limit": 3,
-        "post_limit_mobile": 3,
-        "show_image": true,
-        "show_tags": true,
-        "show_date": true,
-        "show_author": true,
-        "show_excerpt": false,
-        "show_view_all": false,
-        "show_view_all_mobile": true,
-        "button_label": "Button label",
-        "button_style": "secondary",
-        "padding_top": "m",
-        "padding_bottom": "m"
-      }
     }
   },
   "order": [
@@ -509,11 +602,12 @@
     "44ce50b3-10c6-4290-be16-65ae258ed514",
     "1374a121-815e-4579-a769-3a74cf62cc74",
     "22ee1e9d-4a86-4f6a-b15c-ae0ff36252d6",
+    "78d7ef31-32bf-4ff8-9835-3031d6612772",
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f",
     "bafbf507-26c8-4650-b686-0b8c9fde4e0c",
     "00010731-aaa9-4cf0-b776-df15716ada5c",
     "b0745dbf-ed36-4267-b987-cefc88c17037",
     "65b4248b-0924-4fcc-a58d-4eaef769444d",
-    "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f",
-    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"
+    "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f"
   ]
 }
