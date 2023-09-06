@@ -2,6 +2,9 @@
   "sections": {
     "05ce15c9-6115-4725-ba28-d071ffbd1de2": {
       "type": "image-banner",
+      "custom_css": [
+        "h1{text-align: end;}"
+      ],
       "settings": {
         "full_width": true,
         "color_scheme": "background-1",
