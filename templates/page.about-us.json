@@ -3,7 +3,7 @@
     "05ce15c9-6115-4725-ba28-d071ffbd1de2": {
       "type": "image-banner",
       "custom_css": [
-        "h1{font-size:36px}"
+        "h1 {font-size: 36px;}"
       ],
       "settings": {
         "full_width": true,
@@ -22,6 +22,55 @@
         "opacity_overlay": 0,
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
+      }
+    },
+    "14a23419-d440-409b-977e-372188b1e4c9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>",
+            "heading_size": "large"
+          }
+        },
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Memory Minted is your one-stop destination for all your commemorative coin needs. We are specialized in manufacturing personalised coins of gold, silver and other precious metals. Be it personalised coins, trade coins or healthcare coins - we have an amazing collection. With our wide range of products, you can invest in your spark of love as well as your passion for metal and design.<\/p>"
+          }
+        },
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-subheading-1",
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-heading-1",
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-text-1",
+        "template--20536312594753__14a23419-d440-409b-977e-372188b1e4c9-button-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "xs"
       }
     },
     "ce52a5fe-3393-40b8-af41-f8247234668e": {
@@ -286,70 +335,6 @@
         "margin_bottom": "no-indent"
       }
     },
-    "918d13f3-1584-42fd-a372-1f54d11df97e": {
-      "type": "product-slider",
-      "blocks": {
-        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-0": {
-          "type": "product_slide",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "subheading": "",
-            "color_text": "#282828",
-            "show_subheading_dot": true,
-            "color_dot": "#40b66f",
-            "heading": "About Us",
-            "text": "At RingMerry, our mission is to help you succeed in the digital transformation of your online store."
-          }
-        },
-        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-1": {
-          "type": "product_slide",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "subheading": "Some subheading",
-            "color_text": "#282828",
-            "show_subheading_dot": true,
-            "color_dot": "#40b66f",
-            "heading": "Some heading",
-            "text": "Some text."
-          }
-        },
-        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-2": {
-          "type": "product_slide",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "subheading": "Some subheading",
-            "color_text": "#282828",
-            "show_subheading_dot": true,
-            "color_dot": "#40b66f",
-            "heading": "Some heading",
-            "text": "Some text."
-          }
-        }
-      },
-      "block_order": [
-        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-0",
-        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-1",
-        "template--19767131767062__918d13f3-1584-42fd-a372-1f54d11df97e-16891599135d64d454-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "2",
-        "desktop_alignment": "right",
-        "mobile_alignment": "before",
-        "image_fit": "cover",
-        "slide_duration": 10,
-        "show_vendor": true,
-        "image_ratio": "landscape",
-        "image_fit_card": "cover",
-        "margin_top": "no-indent",
-        "margin_bottom": "no-indent",
-        "padding_top": "no-indent",
-        "padding_bottom": "no-indent"
-      }
-    },
     "1374a121-815e-4579-a769-3a74cf62cc74": {
       "type": "custom-liquid",
       "disabled": true,
@@ -468,108 +453,6 @@
         "custom_liquid": "<div class=\"video-banner\">\n    <video autoplay loop muted playsinline poster=\"path\/to\/poster-image.jpg\">\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/vp\/f24fb2b3e48a4ebaaea09e8846297da1\/f24fb2b3e48a4ebaaea09e8846297da1.HD-1080p-7.2Mbps-16074015.mp4\" type=\"video\/mp4\">\n      Your browser does not support the video tag.\n    <\/video>\n  <\/div>"
       }
     },
-    "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4": {
-      "type": "slideshow",
-      "blocks": {
-        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-0": {
-          "type": "slide",
-          "settings": {
-            "color_scheme": "background-1",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "large",
-            "description": "",
-            "show_button": false,
-            "button_style": "secondary",
-            "button_label": "Explore Our Store",
-            "button_link": "",
-            "overlay_opacity": 0.2
-          }
-        },
-        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-1": {
-          "type": "slide",
-          "settings": {
-            "color_scheme": "background-3",
-            "subheading": "",
-            "heading": "Natural Mined and Lab Grown \nDiamonds",
-            "heading_size": "medium",
-            "description": "With our expert stone setters, we guarantee that each piece is crafted to perfection. Our advanced inventory-less solutions provide a diverse \nselection of pricing and design to enable you to retain your customers.\nImpress your customers with our cutting-edge rendering technology and selection from millions of CADs, images and videos and build your online store. \ncription",
-            "show_button": true,
-            "button_style": "primary",
-            "button_label": "Explore Our Store",
-            "button_link": "",
-            "overlay_opacity": 0.5
-          }
-        },
-        "e73a7757-a021-43af-8d3a-ee7d0d9a12fe": {
-          "type": "slide",
-          "settings": {
-            "color_scheme": "background-3",
-            "subheading": "",
-            "heading": "Digital Services",
-            "heading_size": "medium",
-            "description": "Our custom website design solutions help you reach potential customers and increase sales. We provide complete handholding for online solutions, from creating a visually stunning website to managing your product portfolio and images, to processing payments and shipping orders.Some description",
-            "show_button": true,
-            "button_style": "primary",
-            "button_label": "Explore Our Store",
-            "button_link": "",
-            "overlay_opacity": 0.5
-          }
-        },
-        "cdce843f-765d-46f0-8ca4-c9492ce61aea": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "color_scheme": "background-3",
-            "subheading": "Subheading",
-            "heading": "Some heading",
-            "heading_size": "medium",
-            "description": "Some description",
-            "show_button": true,
-            "button_style": "primary",
-            "button_label": "Explore Our Store",
-            "button_link": "",
-            "overlay_opacity": 0.5
-          }
-        },
-        "ae40d790-8c90-4d75-a35f-f71718f18150": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "color_scheme": "background-3",
-            "subheading": "Subheading",
-            "heading": "Some heading",
-            "heading_size": "medium",
-            "description": "Some description",
-            "show_button": true,
-            "button_style": "primary",
-            "button_label": "Explore Our Store",
-            "button_link": "",
-            "overlay_opacity": 0.5
-          }
-        }
-      },
-      "block_order": [
-        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-0",
-        "template--19767131767062__613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4-168872418948d07414-1",
-        "e73a7757-a021-43af-8d3a-ee7d0d9a12fe",
-        "cdce843f-765d-46f0-8ca4-c9492ce61aea",
-        "ae40d790-8c90-4d75-a35f-f71718f18150"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "height": "16\/9",
-        "enable_autoplay": false,
-        "slide_duration": 5,
-        "controls_color_scheme": "light",
-        "padding_top": "no-indent",
-        "padding_bottom": "no-indent",
-        "margin_top": "no-indent",
-        "margin_bottom": "no-indent"
-      }
-    },
     "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f": {
       "type": "newsletter",
       "settings": {
@@ -580,91 +463,6 @@
         "button_style": "primary",
         "padding_top": "m",
         "padding_bottom": "m"
-      }
-    },
-    "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c": {
-      "type": "brands",
-      "blocks": {
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-3": {
-          "type": "column",
-          "settings": {
-            "image_width": 145,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-0": {
-          "type": "column",
-          "settings": {
-            "image_width": 205,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-4": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-5": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-6": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
-            "brand_link": ""
-          }
-        },
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-7": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
-            "brand_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-3",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-0",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-1",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-2",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-4",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-5",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-6",
-        "template--19767131767062__ffae44b0-9c47-4ca2-b8bb-448d9af63d8c-16887340832b5758b1-7"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "background-1",
-        "border_top": false,
-        "border_bottom": false,
-        "padding_top": "s",
-        "padding_bottom": "s"
       }
     },
     "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f": {
@@ -699,6 +497,7 @@
   },
   "order": [
     "05ce15c9-6115-4725-ba28-d071ffbd1de2",
+    "14a23419-d440-409b-977e-372188b1e4c9",
     "ce52a5fe-3393-40b8-af41-f8247234668e",
     "main",
     "25de6fc8-99a5-477f-88f3-77423cb5bf88",
@@ -708,16 +507,13 @@
     "form",
     "6ae40c43-e577-452c-9b48-b107b2e4f456",
     "44ce50b3-10c6-4290-be16-65ae258ed514",
-    "918d13f3-1584-42fd-a372-1f54d11df97e",
     "1374a121-815e-4579-a769-3a74cf62cc74",
     "22ee1e9d-4a86-4f6a-b15c-ae0ff36252d6",
     "bafbf507-26c8-4650-b686-0b8c9fde4e0c",
     "00010731-aaa9-4cf0-b776-df15716ada5c",
     "b0745dbf-ed36-4267-b987-cefc88c17037",
     "65b4248b-0924-4fcc-a58d-4eaef769444d",
-    "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4",
     "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f",
-    "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c",
     "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"
   ]
 }
