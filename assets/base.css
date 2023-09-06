@@ -1764,7 +1764,7 @@ h1,
 @media only screen and (min-width: 1600px) {
   h1,
   .h1 {
-    font-size: calc(var(--font-heading-h1-scale) * 5rem);
+    font-size: calc(var(--font-heading-h1-scale) * 3rem);
   }
 }
 
