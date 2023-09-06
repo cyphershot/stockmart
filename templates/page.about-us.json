@@ -29,6 +29,7 @@
     },
     "25de6fc8-99a5-477f-88f3-77423cb5bf88": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         ".container {display: flex; flex-direction: row; padding-top: 25px;}",
         ".image-container {flex: 1;}",
@@ -151,12 +152,27 @@
             "padding_top": 0,
             "padding_bottom": 70
           }
+        },
+        "f22921b6-2b7b-4466-868d-79d10a82d758": {
+          "type": "image-with-text",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Some heading for this section",
+            "height": "adapt",
+            "text": "<p>Description of your company, company history, company founders, and so on. There may be several paragraphs here.<\/p>",
+            "column_text": "Description of your company, company history, company founders. You can also add any text. Add text about whatever you want.",
+            "name": "Author name",
+            "author_position": "Position of author or any other text",
+            "padding_top": 0,
+            "padding_bottom": 70
+          }
         }
       },
       "block_order": [
         "image-with-text",
         "92bbeca2-3c86-446c-bcd8-d8887597ca9f",
-        "5bc4dda1-f350-41e7-815a-fb0b7b2bc459"
+        "5bc4dda1-f350-41e7-815a-fb0b7b2bc459",
+        "f22921b6-2b7b-4466-868d-79d10a82d758"
       ],
       "disabled": true,
       "settings": {
@@ -655,6 +671,26 @@
         "padding_top": "m",
         "padding_bottom": "m"
       }
+    },
+    "05ce15c9-6115-4725-ba28-d071ffbd1de2": {
+      "type": "image-banner",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "<h1><strong>Discover The Memorymint<\/strong><\/h1>",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
     }
   },
   "order": [
@@ -677,6 +713,7 @@
     "613cf0ec-15aa-4abc-aeee-f3d9e71bd8a4",
     "1f4b4a28-eb47-4e8c-bf5f-01fa18fc868f",
     "ffae44b0-9c47-4ca2-b8bb-448d9af63d8c",
-    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f"
+    "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f",
+    "05ce15c9-6115-4725-ba28-d071ffbd1de2"
   ]
 }
