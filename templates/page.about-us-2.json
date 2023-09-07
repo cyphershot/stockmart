@@ -35,7 +35,7 @@
         "position": "right",
         "layout": "top",
         "heading": "<p>Contact form<\/p>",
-        "additional_text": "<p>Additional text for contact form.<\/p>",
+        "additional_text": "",
         "padding_top": "no-indent",
         "padding_bottom": "m"
       }
