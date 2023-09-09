@@ -472,7 +472,6 @@
     },
     "48d67a0e-5cf9-47f6-a39f-b3c5a8f3473f": {
       "type": "featured-blog",
-      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "color_scheme_card": "background-2",
